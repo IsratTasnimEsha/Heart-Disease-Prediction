@@ -1,0 +1,12 @@
+F1-score for fold 1: 93.98
+F1-score for fold 2: 96.67
+F1-score for fold 3: 94.37
+F1-score for fold 4: 94.94
+F1-score for fold 5: 92.24
+F1-score for fold 6: 93.09
+F1-score for fold 7: 93.24
+F1-score for fold 8: 94.31
+F1-score for fold 9: 94.37
+F1-score for fold 10: 93.78
+
+Average F1-score: 94.10 ± 1.13
