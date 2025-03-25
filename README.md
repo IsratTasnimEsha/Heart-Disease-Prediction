@@ -1,7 +1,3 @@
-Here’s the corrected text in a copy-ready format:  
-
----
-
 Let's use RSA-1 for encryption and RSA-2 for digital signatures.  
 
 ### **Key Generation:**  
@@ -19,14 +15,14 @@ This means:
 ### **Workflow:**  
 
 #### **Input:**  
-1. SU creates a digital signature using private key (RSA-2).  
+1. SU uses SHA-256 hash on input, and creates a digital signature using private key (RSA-2).  
 2. SU encrypts the input using public key (RSA-1).  
 3. SU sends both the encrypted input and digital signature to SYS.  
 4. SYS decrypts the input using private key (RSA-1).  
 5. SYS verifies the signature using public key (RSA-2).  
 
 #### **Output:**  
-1. SYS creates a digital signature using private key (RSA-1).  
+1. SYS uses SHA-256 hash on output, and creates a digital signature using private key (RSA-1).  
 2. SYS encrypts the output using public key (RSA-2).  
 3. SYS sends both the encrypted output and digital signature to SU.  
 4. SU decrypts the output using private key (RSA-2).  
