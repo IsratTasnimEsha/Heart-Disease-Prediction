@@ -14,7 +14,7 @@ Let's use RSA-1 for encryption and RSA-2 for digital signatures.
 
 This means:  
 - SYS has **private key (RSA-1), public key (RSA-1), and public key (RSA-2)**.  
-- SU has **public key (RSA-1), private key (RSA-2), and public key (RSA-1)**.  
+- SU has **public key (RSA-1), private key (RSA-2), and public key (RSA-2)**.  
 
 ### **Workflow:**  
 
