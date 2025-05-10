@@ -1,0 +1,2 @@
+Age,Sex,ChestPainType,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestingECG,MaximumHeartRate,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+56,Male,Non-anginal Pain,140,250,Yes,Left Ventricular Hypertrophy,150,No,2,Flat
