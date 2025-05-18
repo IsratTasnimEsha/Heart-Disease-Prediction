@@ -1,2 +1,0 @@
-RandomForestClassifier Hyperparameters: {'random_state': 3022, 'n_estimators': 83}
-IsolationForest Hyperparameters: {'contamination': 0.05, 'random_state': 3022, 'max_samples': 256}
