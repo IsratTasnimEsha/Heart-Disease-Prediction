@@ -1,0 +1,15 @@
+Prediction of Heart Disease:,Yes
+Possibility of Yes:,85.93%
+Possibility of No:,14.07%
+Feature,Value,Contribution (%)
+ST_Slope,Downsloping,17.52%
+ChestPainType,Non-anginal Pain,16.06%
+RestingBloodPressure,2,8.27%
+Age,1,6.70%
+Oldpeak,3,6.15%
+RestingECG,Abnormal ST-T Wave,5.57%
+Cholesterol,1,4.56%
+MaximumHeartRate,2,4.52%
+ExerciseAngina,No,3.64%
+Sex,Male,3.48%
+FastingBloodSugar,Yes,3.34%
