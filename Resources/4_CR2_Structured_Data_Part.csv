@@ -1,503 +1,331 @@
 FastingBloodSugar,RestingECG,MaximumHeartRate,ExerciseAngina,Oldpeak
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Mild
-No,Abnormal ST-T Wave,Low,No,
+No,Abnormal ST-T Wave,Low,No,No
 No,Normal,Moderate,Yes,Moderate
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Moderate
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Low,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,No,
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Normal,High,No,Moderate
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,No,Mild
 No,Normal,High,No,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,Yes,Severe
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
 Yes,Normal,Low,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
-Yes,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+Yes,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Normal,Moderate,No,No
+No,Abnormal ST-T Wave,Moderate,Yes,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Mild
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Low,Yes,Moderate
-Yes,Normal,Moderate,No,
-No,Normal,High,No,
+Yes,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Abnormal ST-T Wave,Low,Yes,Mild
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Mild
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Low,Yes,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,Yes,Mild
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Normal,Moderate,Yes,Moderate
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,Yes,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 Yes,Normal,Moderate,Yes,Mild
 No,Normal,Low,Yes,Mild
 Yes,Normal,Moderate,Yes,Moderate
 No,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Mild
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Normal,Low,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Moderate
-No,Normal,Moderate,No,
-Yes,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+Yes,Normal,High,No,No
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Moderate
 Yes,Normal,High,Yes,Mild
-No,Normal,Moderate,No,
-Yes,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
+Yes,Normal,Moderate,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Mild
 No,Normal,Low,Yes,Severe
-Yes,Normal,Moderate,Yes,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
+Yes,Normal,Moderate,Yes,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Normal,High,Yes,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-Yes,Normal,High,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+Yes,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Normal,Moderate,Yes,Mild
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Normal,High,No,Moderate
-Yes,Normal,Moderate,No,
+Yes,Normal,Moderate,No,No
 No,Normal,High,Yes,Moderate
-No,Normal,Moderate,No,
-No,Normal,High,Yes,
+No,Normal,Moderate,No,No
+No,Normal,High,Yes,No
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,Moderate,Yes,
+No,Normal,Moderate,Yes,No
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Low,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Mild
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-Yes,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,High,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Abnormal ST-T Wave,High,No,No
 Yes,Normal,High,Yes,Severe
 No,Normal,High,Yes,Mild
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,LV Hypertrophy,Moderate,Yes,
-No,Normal,Low,Yes,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
+Yes,LV Hypertrophy,Moderate,Yes,No
+No,Normal,Low,Yes,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
 Yes,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,No,Moderate
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Low,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,Low,No,No
 No,Normal,Moderate,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,Moderate,No,
-Yes,Abnormal ST-T Wave,Low,No,
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
+Yes,Abnormal ST-T Wave,Low,No,No
+No,Normal,Moderate,No,No
 Yes,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
+No,Abnormal ST-T Wave,Moderate,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Mild
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,
+No,Normal,Moderate,No,No
+No,Normal,Moderate,Yes,No
 No,Normal,Low,No,Mild
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,
-No,LV Hypertrophy,High,No,
-No,Normal,Moderate,No,
-No,LV Hypertrophy,High,No,
-No,Normal,Moderate,No,
-Yes,Normal,Moderate,No,
-No,Normal,Moderate,Yes,
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,Moderate,Yes,No
+No,LV Hypertrophy,High,No,No
+No,Normal,Moderate,No,No
+No,LV Hypertrophy,High,No,No
+No,Normal,Moderate,No,No
+Yes,Normal,Moderate,No,No
+No,Normal,Moderate,Yes,No
 No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Low,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
 No,Normal,High,Yes,Mild
-No,Normal,Moderate,No,
-No,Normal,High,No,
-Yes,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,Severe
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+Yes,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Normal,High,Yes,Mild
 No,Normal,Moderate,Yes,Severe
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
 No,Normal,Low,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,Yes,Moderate
 Yes,Normal,High,Yes,Moderate
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
 No,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,No,Moderate
 No,Normal,High,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
+No,Abnormal ST-T Wave,Moderate,Yes,No
 No,Normal,High,No,Mild
 No,Normal,Low,Yes,Moderate
-No,Normal,Moderate,No,
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,LV Hypertrophy,High,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,No,Mild
-No,Normal,High,No,
-No,Normal,High,Yes,
+No,Normal,High,No,No
+No,Normal,High,Yes,No
 No,Normal,Moderate,No,Mild
-No,Normal,Moderate,Yes,
-No,Normal,Moderate,No,
+No,Normal,Moderate,Yes,No
+No,Normal,Moderate,No,No
 No,Normal,High,Yes,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Low,Yes,Mild
 No,Normal,High,No,Moderate
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Severe
-No,LV Hypertrophy,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
+No,LV Hypertrophy,Moderate,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
 No,Normal,High,No,Moderate
 No,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
-No,LV Hypertrophy,Moderate,No,
+No,Abnormal ST-T Wave,High,No,No
+No,LV Hypertrophy,Moderate,No,No
 No,Normal,Moderate,No,Moderate
 No,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
+No,Normal,Moderate,No,No
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,High,No,
-No,Normal,Moderate,No,
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Mild
-No,Normal,High,No,
-No,Normal,Low,Yes,
-Yes,Normal,Moderate,No,Mild
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Normal,Moderate,Yes,Mild
-Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,Low,No,
-Yes,Abnormal ST-T Wave,High,No,Severe
-Yes,Normal,High,No,Mild
-No,Abnormal ST-T Wave,High,No,Mild
-Yes,Normal,Moderate,No,Moderate
-Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,Moderate,No,Severe
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Normal,High,No,Mild
-No,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Normal,Moderate,No,Mild
-Yes,Normal,High,No,Mild
-No,Normal,High,No,Mild
-Yes,Normal,Moderate,No,Mild
-Yes,Normal,High,No,Moderate
-Yes,Normal,High,No,Mild
-No,Normal,High,Yes,Moderate
-Yes,Abnormal ST-T Wave,Moderate,No,Moderate
-Yes,Normal,High,No,Mild
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Normal,Low,No,Severe
-Yes,Normal,Moderate,No,Moderate
-Yes,Normal,High,No,Severe
-Yes,Normal,Moderate,No,Mild
-Yes,Normal,High,No,Severe
-Yes,Normal,Moderate,Yes,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,No,Mild
-Yes,Normal,Moderate,Yes,Mild
-Yes,Normal,Low,Yes,Mild
-Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,High,No,Severe
-Yes,Abnormal ST-T Wave,Low,No,Mild
-No,Normal,High,No,Mild
-Yes,Abnormal ST-T Wave,High,No,
-Yes,Normal,High,No,Mild
-Yes,LV Hypertrophy,Moderate,No,Mild
-No,LV Hypertrophy,Moderate,No,Moderate
-Yes,Abnormal ST-T Wave,High,No,Severe
-Yes,LV Hypertrophy,High,No,Moderate
-Yes,Normal,High,No,Moderate
-Yes,Normal,Moderate,No,Moderate
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Normal,Moderate,No,Moderate
-Yes,Normal,Moderate,No,
-Yes,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-Yes,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,Moderate,Yes,Mild
-Yes,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,Low,No,Mild
-No,LV Hypertrophy,Moderate,No,
-No,Normal,Moderate,Yes,Moderate
-No,Normal,Low,No,
-No,Normal,Moderate,Yes,
-No,Normal,Moderate,No,
-No,Normal,Low,Yes,
-No,Normal,Moderate,Yes,
-No,Abnormal ST-T Wave,Low,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,Low,No,
-No,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,Yes,Moderate
-No,Normal,Low,Yes,Moderate
-No,Normal,Low,Yes,Mild
-No,Normal,Moderate,Yes,Moderate
-No,Normal,Low,Yes,
-No,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,Yes,Mild
-Yes,Abnormal ST-T Wave,Moderate,No,Moderate
-Yes,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,Yes,
-No,Abnormal ST-T Wave,Low,Yes,Mild
-No,Normal,Moderate,Yes,Mild
-No,Normal,High,Yes,Moderate
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,Yes,
-No,Normal,Low,Yes,
-No,LV Hypertrophy,Moderate,Yes,Mild
-No,Normal,Low,No,
-Yes,Abnormal ST-T Wave,High,No,Mild
-No,Normal,Low,No,
-No,Abnormal ST-T Wave,Low,Yes,
-No,LV Hypertrophy,Moderate,No,
-Yes,Normal,Moderate,Yes,Mild
-Yes,Normal,Low,Yes,Moderate
-Yes,Normal,High,No,
-Yes,Normal,High,No,
-Yes,Abnormal ST-T Wave,Moderate,Yes,
-Yes,Normal,Moderate,Yes,Mild
-Yes,Abnormal ST-T Wave,Low,No,
-Yes,Normal,Moderate,No,
-Yes,Abnormal ST-T Wave,High,No,
-Yes,Abnormal ST-T Wave,Low,No,Mild
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Normal,Moderate,Yes,
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Normal,Moderate,Yes,
-Yes,Normal,Low,Yes,Mild
-Yes,Normal,Low,No,
-Yes,LV Hypertrophy,Moderate,Yes,
-Yes,Abnormal ST-T Wave,Low,No,Moderate
-Yes,Normal,High,No,Moderate
-Yes,Normal,Moderate,Yes,Mild
-Yes,Normal,Low,No,Mild
-Yes,Normal,Moderate,Yes,Severe
-Yes,Normal,Low,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,No,
+No,Abnormal ST-T Wave,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,LV Hypertrophy,Low,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,Yes,
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,High,Yes,Moderate
+Yes,Abnormal ST-T Wave,Moderate,Yes,No
 Yes,Abnormal ST-T Wave,High,No,Mild
-No,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,Mild
-No,LV Hypertrophy,Moderate,Yes,Mild
-Yes,Abnormal ST-T Wave,High,Yes,Mild
-No,Abnormal ST-T Wave,Low,No,
+No,Abnormal ST-T Wave,Moderate,No,No
+No,Abnormal ST-T Wave,Low,No,No
 No,Normal,Low,Yes,Severe
 No,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,No,Mild
-No,Abnormal ST-T Wave,High,No,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Normal,Moderate,Yes,Mild
-No,Normal,High,No,Moderate
-No,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Moderate,Yes,Moderate
 Yes,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Low,Yes,
-Yes,Normal,High,No,
-Yes,Abnormal ST-T Wave,Low,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Low,Yes,
 No,Normal,Moderate,Yes,Moderate
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,Moderate
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,No,Mild
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Low,Yes,Moderate
 Yes,Normal,High,No,Moderate
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Moderate,No,Mild
-Yes,LV Hypertrophy,Moderate,Yes,
 Yes,LV Hypertrophy,Moderate,No,Mild
-Yes,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
-No,LV Hypertrophy,Moderate,Yes,Severe
-Yes,Normal,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,Normal,Moderate,No,Severe
-No,LV Hypertrophy,Moderate,Yes,Moderate
-No,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Normal,Moderate,No,Mild
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Mild
-Yes,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,High,No,Severe
+Yes,Abnormal ST-T Wave,Moderate,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Mild
-Yes,Normal,Low,No,Mild
 No,Normal,High,Yes,Severe
-Yes,Abnormal ST-T Wave,Moderate,Yes,
+Yes,Abnormal ST-T Wave,Moderate,Yes,No
 No,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Moderate
@@ -506,24 +334,19 @@ Yes,Abnormal ST-T Wave,Moderate,No,Mild
 Yes,Normal,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
-No,Normal,Low,Yes,
-Yes,Normal,High,No,Moderate
-No,Normal,Moderate,No,
+No,Normal,Low,Yes,No
+No,Normal,Moderate,No,No
 No,Normal,Moderate,No,Mild
 Yes,Abnormal ST-T Wave,Low,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,High,No,Severe
-Yes,Normal,Moderate,No,
+Yes,Normal,Moderate,No,No
 No,Normal,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,LV Hypertrophy,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,High,No,Mild
 No,LV Hypertrophy,Moderate,Yes,Moderate
 No,Normal,Moderate,No,Mild
@@ -531,30 +354,27 @@ No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,Moderate,No,
+Yes,Abnormal ST-T Wave,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
-No,LV Hypertrophy,Moderate,Yes,Mild
-Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,Moderate,Yes,Moderate
-No,LV Hypertrophy,Moderate,No,
+No,LV Hypertrophy,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,LV Hypertrophy,Moderate,No,Severe
 No,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-Yes,Normal,Moderate,Yes,
+Yes,Normal,Moderate,Yes,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,High,No,
+Yes,Abnormal ST-T Wave,High,No,No
 Yes,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,Moderate,No,Moderate
 Yes,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,Low,No,Moderate
-No,LV Hypertrophy,Low,No,
+No,LV Hypertrophy,Low,No,No
 No,Normal,Moderate,Yes,Moderate
 Yes,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,
+No,Abnormal ST-T Wave,Moderate,Yes,No
 Yes,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
@@ -566,13 +386,11 @@ Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
+No,Abnormal ST-T Wave,Moderate,Yes,No
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
-Yes,LV Hypertrophy,Moderate,No,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
@@ -581,39 +399,39 @@ No,LV Hypertrophy,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,LV Hypertrophy,Moderate,Yes,Mild
 No,Normal,High,Yes,Moderate
-Yes,LV Hypertrophy,Low,Yes,
+Yes,LV Hypertrophy,Low,Yes,No
 No,LV Hypertrophy,Moderate,No,Mild
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,Moderate,Yes,Moderate
 No,LV Hypertrophy,High,No,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Normal,Low,No,
+Yes,Normal,Low,No,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Abnormal ST-T Wave,Moderate,No,
+No,Abnormal ST-T Wave,Moderate,No,No
 Yes,LV Hypertrophy,High,Yes,Moderate
-Yes,LV Hypertrophy,Moderate,No,
+Yes,LV Hypertrophy,Moderate,No,No
 Yes,LV Hypertrophy,Moderate,Yes,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Mild
-No,LV Hypertrophy,Moderate,No,
+No,LV Hypertrophy,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
 No,LV Hypertrophy,Moderate,Yes,Moderate
 Yes,Normal,Low,No,Moderate
 No,Abnormal ST-T Wave,Low,Yes,Mild
 No,Normal,Moderate,Yes,Moderate
-No,Normal,Low,Yes,
+No,Normal,Low,Yes,No
 No,Normal,Moderate,Yes,Moderate
-Yes,Normal,High,Yes,
+Yes,Normal,High,Yes,No
 Yes,LV Hypertrophy,Low,No,Mild
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,No,
-Yes,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,Moderate,Yes,No
+No,Normal,Moderate,No,No
+Yes,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,No,
+Yes,Abnormal ST-T Wave,Moderate,No,No
 Yes,LV Hypertrophy,Moderate,No,Mild
-No,LV Hypertrophy,Low,Yes,
+No,LV Hypertrophy,Low,Yes,No
 No,LV Hypertrophy,Moderate,No,Severe
 No,LV Hypertrophy,High,No,Moderate
 No,Normal,High,No,Mild
@@ -625,10 +443,10 @@ No,LV Hypertrophy,High,Yes,Moderate
 No,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,High,No,Severe
 No,Normal,High,No,Mild
-No,LV Hypertrophy,Moderate,Yes,
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,Moderate,Yes,No
+No,LV Hypertrophy,High,No,No
 No,Normal,High,No,Severe
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,Normal,Moderate,No,Moderate
 No,Normal,Moderate,Yes,Moderate
 Yes,LV Hypertrophy,High,Yes,Severe
@@ -638,61 +456,61 @@ No,LV Hypertrophy,Moderate,Yes,Severe
 No,LV Hypertrophy,High,No,Mild
 No,Normal,High,No,Moderate
 No,Normal,High,No,Mild
-Yes,LV Hypertrophy,High,Yes,
+Yes,LV Hypertrophy,High,Yes,No
 No,Normal,Moderate,No,Mild
-No,LV Hypertrophy,High,Yes,
+No,LV Hypertrophy,High,Yes,No
 No,LV Hypertrophy,High,No,Mild
 No,LV Hypertrophy,High,No,Severe
-Yes,LV Hypertrophy,Moderate,No,
+Yes,LV Hypertrophy,Moderate,No,No
 No,LV Hypertrophy,High,No,Mild
 No,LV Hypertrophy,Moderate,No,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,LV Hypertrophy,Moderate,Yes,Mild
-Yes,LV Hypertrophy,High,Yes,
+Yes,LV Hypertrophy,High,Yes,No
 No,LV Hypertrophy,Moderate,Yes,Moderate
-No,LV Hypertrophy,Moderate,No,
-No,Normal,High,No,
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
+No,LV Hypertrophy,Moderate,No,No
+No,Normal,High,No,No
+No,LV Hypertrophy,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,High,Yes,Mild
-Yes,Normal,High,No,
+Yes,Normal,High,No,No
 Yes,Normal,Moderate,No,Severe
-Yes,LV Hypertrophy,High,No,
+Yes,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,Moderate,No,Mild
-No,LV Hypertrophy,High,No,
-No,Normal,Moderate,Yes,
+No,LV Hypertrophy,High,No,No
+No,Normal,Moderate,Yes,No
 No,LV Hypertrophy,Moderate,No,Mild
 No,Normal,Moderate,Yes,Moderate
-Yes,Normal,High,No,
+Yes,Normal,High,No,No
 Yes,LV Hypertrophy,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Severe
-Yes,Normal,Low,No,
-No,Normal,High,Yes,
+Yes,Normal,Low,No,No
+No,Normal,High,Yes,No
 No,LV Hypertrophy,Moderate,No,Moderate
 Yes,Normal,High,No,Mild
 No,Normal,High,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Mild
 Yes,LV Hypertrophy,High,No,Severe
 No,LV Hypertrophy,Moderate,Yes,Mild
-No,LV Hypertrophy,High,Yes,
-Yes,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,Yes,No
+Yes,LV Hypertrophy,High,No,No
 No,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,Yes,Mild
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,High,No,Mild
-No,LV Hypertrophy,High,Yes,
+No,LV Hypertrophy,High,Yes,No
 No,LV Hypertrophy,High,Yes,Severe
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Normal,High,No,Mild
 No,Normal,Moderate,No,Moderate
 No,Normal,Moderate,Yes,Moderate
@@ -700,14 +518,14 @@ No,LV Hypertrophy,Moderate,Yes,Mild
 No,LV Hypertrophy,High,No,Moderate
 No,Normal,Moderate,Yes,Moderate
 No,LV Hypertrophy,High,No,Mild
-Yes,LV Hypertrophy,Moderate,No,
+Yes,LV Hypertrophy,Moderate,No,No
 No,LV Hypertrophy,High,No,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Moderate,No,Severe
-No,Normal,High,Yes,
-No,LV Hypertrophy,High,No,
+No,Normal,High,Yes,No
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,LV Hypertrophy,Moderate,Yes,
+No,LV Hypertrophy,Moderate,Yes,No
 No,Normal,High,No,Mild
 No,LV Hypertrophy,Moderate,Yes,Mild
 No,LV Hypertrophy,High,No,Mild
@@ -716,20 +534,20 @@ No,Normal,Moderate,No,Mild
 No,Normal,High,No,Moderate
 No,Normal,High,No,Mild
 No,Normal,Low,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 Yes,LV Hypertrophy,Moderate,No,Mild
 No,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,High,No,Mild
 No,Normal,High,Yes,Moderate
 No,LV Hypertrophy,High,No,Severe
-No,Normal,High,Yes,
-No,Normal,Moderate,No,
+No,Normal,High,Yes,No
+No,Normal,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,High,No,
-No,LV Hypertrophy,High,No,
-Yes,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,LV Hypertrophy,High,No,No
+Yes,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,LV Hypertrophy,High,No,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Severe
 No,Normal,Moderate,No,Severe
@@ -739,48 +557,48 @@ No,LV Hypertrophy,Moderate,Yes,Severe
 No,Normal,Low,Yes,Moderate
 No,LV Hypertrophy,High,No,Mild
 No,LV Hypertrophy,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Low,Yes,Moderate
 No,LV Hypertrophy,High,No,Mild
 No,Normal,High,No,Mild
 Yes,Normal,High,Yes,Moderate
 No,Normal,High,Yes,Moderate
 No,LV Hypertrophy,Moderate,Yes,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Low,Yes,Severe
 No,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,High,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 Yes,LV Hypertrophy,High,Yes,Moderate
 No,Normal,High,No,Mild
-No,Normal,High,Yes,
+No,Normal,High,Yes,No
 No,LV Hypertrophy,Moderate,No,Moderate
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,Normal,High,No,Mild
 No,LV Hypertrophy,Moderate,Yes,Moderate
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,Normal,Low,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Moderate
 No,LV Hypertrophy,High,No,Severe
-No,LV Hypertrophy,High,Yes,
-No,Normal,High,No,
+No,LV Hypertrophy,High,Yes,No
+No,Normal,High,No,No
 No,Normal,High,No,Moderate
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,Normal,Moderate,No,Moderate
 No,LV Hypertrophy,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Severe
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,High,No,Moderate
 Yes,Normal,High,Yes,Mild
 No,Normal,High,Yes,Severe
 No,Normal,High,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,Normal,High,No,
-No,Normal,High,Yes,
-No,LV Hypertrophy,High,No,
+No,Normal,High,No,No
+No,Normal,High,Yes,No
+No,LV Hypertrophy,High,No,No
 Yes,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,High,Yes,Mild
 Yes,LV Hypertrophy,High,No,Moderate
@@ -788,17 +606,17 @@ Yes,LV Hypertrophy,Moderate,No,Mild
 No,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,Moderate,Yes,Mild
 No,LV Hypertrophy,Moderate,No,Moderate
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 Yes,Normal,Moderate,No,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,No,Severe
 Yes,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 Yes,Normal,High,No,Mild
 No,LV Hypertrophy,High,Yes,Moderate
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,Moderate,No,Mild
-Yes,LV Hypertrophy,High,No,
+Yes,LV Hypertrophy,High,No,No
 No,Normal,High,No,Moderate
 No,LV Hypertrophy,Moderate,Yes,Severe
 Yes,Normal,High,No,Mild
@@ -806,21 +624,21 @@ No,LV Hypertrophy,High,No,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,No,Moderate
 No,Normal,Moderate,Yes,Severe
-No,Normal,High,No,
-No,LV Hypertrophy,High,Yes,
-Yes,Normal,High,No,
+No,Normal,High,No,No
+No,LV Hypertrophy,High,Yes,No
+Yes,Normal,High,No,No
 No,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,Moderate,No,Mild
 No,Normal,High,No,Moderate
 No,Normal,High,No,Moderate
-No,LV Hypertrophy,High,Yes,
+No,LV Hypertrophy,High,Yes,No
 No,Normal,High,No,Mild
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,High,Yes,Moderate
 No,LV Hypertrophy,High,Yes,Mild
 Yes,Normal,High,No,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,High,Yes,Mild
 No,Normal,Moderate,Yes,Moderate
 No,Normal,High,No,Severe
@@ -828,34 +646,34 @@ No,LV Hypertrophy,High,No,Mild
 Yes,LV Hypertrophy,High,No,Severe
 No,Normal,High,No,Mild
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,High,No,Moderate
-No,LV Hypertrophy,High,No,
-No,Normal,High,Yes,
+No,LV Hypertrophy,High,No,No
+No,Normal,High,Yes,No
 No,LV Hypertrophy,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Severe
 No,LV Hypertrophy,Moderate,No,Severe
 No,Normal,High,No,Moderate
 Yes,LV Hypertrophy,Moderate,Yes,Moderate
 No,Normal,High,No,Moderate
-No,Normal,Moderate,No,
+No,Normal,Moderate,No,No
 No,Normal,Low,No,Moderate
 Yes,LV Hypertrophy,Moderate,Yes,Severe
 Yes,LV Hypertrophy,High,No,Mild
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,High,Yes,Mild
 No,Normal,Moderate,No,Moderate
-No,LV Hypertrophy,High,No,
-No,Normal,High,Yes,
+No,LV Hypertrophy,High,No,No
+No,Normal,High,Yes,No
 No,Normal,High,No,Moderate
 No,LV Hypertrophy,High,No,Severe
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,Normal,High,No,Mild
 Yes,LV Hypertrophy,High,Yes,Moderate
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
 No,LV Hypertrophy,High,No,Mild
 No,LV Hypertrophy,High,No,Severe
 No,LV Hypertrophy,High,No,Moderate
@@ -865,58 +683,58 @@ No,Normal,High,No,Mild
 No,LV Hypertrophy,High,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,Moderate,No,Moderate
-No,LV Hypertrophy,High,No,
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
+No,LV Hypertrophy,High,No,No
 No,Normal,Moderate,No,Mild
 Yes,Normal,High,No,Moderate
 No,Normal,High,No,Mild
 Yes,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,LV Hypertrophy,High,No,Moderate
 No,Normal,High,No,Mild
 No,Normal,High,No,Mild
 Yes,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,LV Hypertrophy,High,No,Moderate
 No,Normal,High,No,Mild
 No,LV Hypertrophy,Moderate,Yes,Moderate
-No,LV Hypertrophy,Moderate,No,
-No,Normal,High,No,
+No,LV Hypertrophy,Moderate,No,No
+No,Normal,High,No,No
 Yes,LV Hypertrophy,High,Yes,Mild
 Yes,Normal,High,Yes,Mild
 No,Normal,High,No,Mild
 No,LV Hypertrophy,High,No,Mild
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
-No,LV Hypertrophy,High,No,
+No,LV Hypertrophy,High,No,No
+No,Normal,High,No,No
+No,LV Hypertrophy,High,No,No
 No,Normal,Moderate,No,Mild
 No,Normal,High,Yes,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,High,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 No,Normal,High,No,Mild
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
+No,LV Hypertrophy,High,No,No
+No,Normal,High,No,No
 No,LV Hypertrophy,High,No,Mild
 No,Normal,High,No,Moderate
 No,Normal,High,Yes,Severe
 No,LV Hypertrophy,High,Yes,Severe
-No,Normal,Moderate,Yes,
-No,Normal,High,No,
+No,Normal,Moderate,Yes,No
+No,Normal,High,No,No
 Yes,LV Hypertrophy,Low,No,Mild
 No,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,No,Moderate
 Yes,Normal,High,No,Severe
 No,Normal,Moderate,Yes,Moderate
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
+No,LV Hypertrophy,High,No,No
+No,Normal,High,No,No
 Yes,Normal,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 No,Normal,High,No,Moderate
@@ -924,7 +742,7 @@ No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Mild
 No,Abnormal ST-T Wave,High,No,Mild
 No,Normal,High,No,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Moderate
@@ -933,13 +751,13 @@ No,Abnormal ST-T Wave,High,No,Mild
 No,Normal,High,Yes,Moderate
 Yes,Normal,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 Yes,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
@@ -947,13 +765,13 @@ Yes,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Mild
 Yes,Normal,High,No,Mild
 Yes,Normal,High,No,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Mild
 No,Normal,Moderate,Yes,Moderate
 No,Normal,High,Yes,Moderate
-Yes,Abnormal ST-T Wave,High,No,
+Yes,Abnormal ST-T Wave,High,No,No
 No,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
 No,Normal,High,No,Mild
@@ -961,126 +779,126 @@ No,Normal,High,No,Moderate
 No,Normal,High,No,Mild
 No,Normal,High,Yes,Severe
 No,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,Moderate,No,No
+No,Normal,High,No,No
 No,Normal,High,No,Mild
 No,Normal,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-Yes,Normal,Moderate,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
-Yes,Normal,High,No,
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+No,Normal,High,No,No
+Yes,Normal,Moderate,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,Moderate,No,No
+Yes,Normal,High,No,No
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Normal,High,No,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,High,No,Mild
-No,Abnormal ST-T Wave,High,Yes,
-No,Normal,High,No,
-No,Normal,High,Yes,
+No,Abnormal ST-T Wave,High,Yes,No
+No,Normal,High,No,No
+No,Normal,High,Yes,No
 No,Abnormal ST-T Wave,High,No,Mild
 No,Normal,High,No,Moderate
 Yes,Normal,High,No,Severe
-No,Abnormal ST-T Wave,High,Yes,
-Yes,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,Yes,No
+Yes,Abnormal ST-T Wave,High,No,No
 No,Normal,High,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 Yes,Abnormal ST-T Wave,High,No,Moderate
 No,Normal,Moderate,No,Mild
 No,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
-Yes,Abnormal ST-T Wave,High,No,
+Yes,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Normal,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,Yes,
-No,Abnormal ST-T Wave,High,No,
-Yes,Normal,High,Yes,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,Yes,
+Yes,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,Yes,No
+No,Abnormal ST-T Wave,High,No,No
+Yes,Normal,High,Yes,No
+No,Abnormal ST-T Wave,Moderate,No,No
+No,Normal,Moderate,Yes,No
 No,Normal,High,No,Moderate
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
-Yes,Normal,High,No,
+Yes,Normal,High,No,No
 No,Normal,High,No,Mild
 No,Normal,High,No,Severe
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 Yes,Abnormal ST-T Wave,High,No,Mild
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,No,Moderate
 Yes,Normal,Moderate,No,Mild
 No,Normal,High,Yes,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,Yes,
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,Yes,No
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,High,No,Moderate
 No,Normal,High,No,Moderate
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,Yes,
+No,Abnormal ST-T Wave,High,No,No
+No,Normal,High,Yes,No
 No,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Normal,High,No,
-No,Normal,High,Yes,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Normal,High,No,No
+No,Normal,High,Yes,No
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Mild
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,High,No,Mild
 No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-Yes,Abnormal ST-T Wave,Low,No,
-Yes,Normal,Moderate,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
+Yes,Abnormal ST-T Wave,Low,No,No
+Yes,Normal,Moderate,No,No
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Normal,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,High,No,Mild
 No,LV Hypertrophy,Moderate,No,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,High,No,Mild
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Normal,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,No,Severe
@@ -1093,19 +911,19 @@ No,Normal,High,No,Severe
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Normal,Moderate,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Severe
 No,Normal,Moderate,No,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
@@ -1116,16 +934,16 @@ No,Abnormal ST-T Wave,High,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Normal,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,Yes,Severe
 No,Normal,Moderate,Yes,Mild
 Yes,Normal,High,Yes,Moderate
 No,Normal,High,No,Severe
-No,Abnormal ST-T Wave,High,Yes,
+No,Abnormal ST-T Wave,High,Yes,No
 No,Normal,High,Yes,Moderate
 No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Abnormal ST-T Wave,High,Yes,
+No,Abnormal ST-T Wave,High,Yes,No
 No,Normal,High,No,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
@@ -1135,7 +953,7 @@ Yes,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Low,No,Moderate
 Yes,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,No,Severe
-Yes,Normal,High,Yes,
+Yes,Normal,High,Yes,No
 No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,High,No,Moderate
@@ -1146,41 +964,41 @@ No,Normal,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Normal,High,No,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 Yes,Normal,Moderate,No,Mild
 No,Normal,High,Yes,Mild
 No,Normal,Low,Yes,Severe
 No,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,High,No,Moderate
-No,Normal,High,Yes,
-No,Normal,High,Yes,
+No,Normal,High,Yes,No
+No,Normal,High,Yes,No
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Abnormal ST-T Wave,High,Yes,
+No,Abnormal ST-T Wave,High,Yes,No
 No,Normal,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,No,Mild
 No,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,High,No,
+No,Abnormal ST-T Wave,Moderate,Yes,No
+No,Normal,High,No,No
 No,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,High,Yes,Mild
 Yes,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,No,
-No,Normal,High,Yes,
+No,Normal,Moderate,No,No
+No,Normal,High,Yes,No
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,Moderate,Yes,
+No,Normal,Moderate,Yes,No
 No,Normal,Moderate,Yes,Mild
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,Normal,Moderate,No,Mild
@@ -1194,70 +1012,55 @@ No,Normal,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
-Yes,Normal,High,No,
+Yes,Normal,High,No,No
 No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Mild
 Yes,Abnormal ST-T Wave,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,LV Hypertrophy,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,
+No,Abnormal ST-T Wave,High,No,No
 No,LV Hypertrophy,Moderate,No,Severe
 Yes,Normal,High,Yes,Severe
 No,Normal,High,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,
+No,Abnormal ST-T Wave,Moderate,Yes,No
 Yes,Normal,Low,No,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,Severe
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Normal,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
-No,LV Hypertrophy,Moderate,No,Severe
-No,Normal,High,No,Severe
 No,LV Hypertrophy,High,No,Severe
 No,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,Yes,Mild
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,No,Severe
-No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,Low,Yes,Severe
 Yes,LV Hypertrophy,Moderate,Yes,Severe
 No,LV Hypertrophy,Moderate,No,Severe
 No,Normal,Low,Yes,Moderate
 No,LV Hypertrophy,High,Yes,Severe
 Yes,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,Yes,Severe
-No,LV Hypertrophy,High,No,Severe
 Yes,LV Hypertrophy,Moderate,Yes,Severe
 No,LV Hypertrophy,Moderate,No,Severe
-No,Normal,High,Yes,Mild
-No,Normal,Low,Yes,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Mild
 No,Normal,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Moderate
 Yes,Normal,High,Yes,Severe
-No,Normal,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,Low,No,Severe
 No,LV Hypertrophy,Moderate,No,Severe
 Yes,LV Hypertrophy,High,No,Severe
@@ -1267,9 +1070,6 @@ No,Normal,High,No,Severe
 No,Normal,Low,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,Moderate,Yes,Severe
@@ -1278,7 +1078,6 @@ No,LV Hypertrophy,Low,Yes,Moderate
 Yes,LV Hypertrophy,High,Yes,Mild
 Yes,Normal,High,No,Mild
 Yes,LV Hypertrophy,Moderate,No,Severe
-No,Normal,Moderate,No,Mild
 No,LV Hypertrophy,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Low,Yes,Mild
@@ -1287,104 +1086,73 @@ Yes,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Moderate
 Yes,LV Hypertrophy,High,No,Moderate
 Yes,LV Hypertrophy,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,Low,Yes,Severe
 Yes,LV Hypertrophy,High,No,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-No,LV Hypertrophy,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 Yes,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,No,
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Normal,Moderate,No,Severe
 Yes,Normal,Moderate,No,Moderate
 No,LV Hypertrophy,High,Yes,Mild
-No,Normal,High,Yes,Moderate
 Yes,LV Hypertrophy,High,Yes,Moderate
 No,Abnormal ST-T Wave,Low,No,Mild
-No,Normal,High,Yes,Mild
-No,LV Hypertrophy,High,Yes,Severe
-No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Normal,High,Yes,Severe
 Yes,Normal,High,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Normal,High,No,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 No,Normal,Moderate,No,Mild
 No,Normal,High,Yes,Severe
-No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,No,Mild
 Yes,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,Low,Yes,Severe
 Yes,Normal,High,No,Severe
 No,Normal,High,Yes,Severe
 No,Normal,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,Yes,Mild
-Yes,Normal,Moderate,No,Severe
 No,Normal,Low,No,Mild
 No,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-Yes,Abnormal ST-T Wave,High,No,Mild
-No,Normal,Moderate,No,Severe
 Yes,Normal,Moderate,Yes,Severe
 Yes,Normal,Moderate,Yes,Severe
 No,Normal,Low,Yes,Severe
 No,Normal,Low,Yes,Moderate
-Yes,LV Hypertrophy,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,Moderate,Yes,Severe
 Yes,Normal,Moderate,No,Severe
 No,Normal,Low,Yes,Severe
 No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,Low,Yes,Severe
 No,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 No,Normal,Moderate,Yes,Mild
 No,Normal,Moderate,Yes,Mild
-No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
 Yes,Abnormal ST-T Wave,High,No,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Low,Yes,Moderate
-No,Normal,High,Yes,Mild
-No,Normal,Low,Yes,Moderate
 No,LV Hypertrophy,High,No,Mild
-Yes,LV Hypertrophy,High,Yes,Mild
 Yes,Normal,High,No,Moderate
 No,Normal,Moderate,No,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 Yes,LV Hypertrophy,High,Yes,Mild
 No,Normal,Low,Yes,Moderate
 No,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,High,Yes,Mild
-No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Normal,High,No,Severe
 No,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,Low,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Moderate
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,LV Hypertrophy,High,No,Severe
-No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Mild
 No,LV Hypertrophy,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
@@ -1399,7 +1167,6 @@ No,LV Hypertrophy,High,No,Severe
 Yes,Normal,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Mild
 Yes,Abnormal ST-T Wave,High,No,Severe
 Yes,Normal,High,No,Severe
 Yes,LV Hypertrophy,Moderate,No,Severe
@@ -1411,9 +1178,7 @@ Yes,Normal,High,No,Severe
 No,Normal,High,Yes,Severe
 Yes,Normal,High,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,High,No,Severe
-No,Normal,Low,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,Normal,High,No,Mild
 No,Normal,High,Yes,Severe
@@ -1429,33 +1194,20 @@ No,LV Hypertrophy,High,Yes,Severe
 No,LV Hypertrophy,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Mild
 Yes,LV Hypertrophy,Moderate,No,Moderate
-Yes,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,High,No,Severe
 No,Normal,High,No,Severe
 No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,LV Hypertrophy,Moderate,No,Severe
 Yes,LV Hypertrophy,Low,Yes,Severe
-No,Normal,High,No,
-No,Normal,Low,No,Severe
-No,Normal,High,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,LV Hypertrophy,High,No,Severe
-No,Normal,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,Moderate,No,Mild
 Yes,Normal,High,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,High,Yes,Mild
-No,Normal,Low,No,Severe
-No,LV Hypertrophy,High,Yes,Moderate
 No,Normal,High,Yes,Moderate
-No,Normal,High,Yes,Mild
 Yes,LV Hypertrophy,Moderate,No,Severe
 No,Normal,High,Yes,Mild
 No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Low,No,Moderate
 No,Normal,Low,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
@@ -1472,31 +1224,21 @@ No,Normal,High,Yes,Severe
 No,Normal,Low,No,Severe
 Yes,Normal,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,No,Mild
 No,Normal,High,Yes,Severe
 No,Normal,High,No,Severe
-No,Normal,Moderate,No,Severe
 No,Normal,High,No,Severe
 No,Normal,Moderate,No,Severe
-No,LV Hypertrophy,Moderate,No,Severe
 No,LV Hypertrophy,High,No,Severe
-No,Abnormal ST-T Wave,High,No,Moderate
 No,LV Hypertrophy,High,Yes,Severe
-No,Normal,High,Yes,Severe
 No,LV Hypertrophy,High,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Mild
 Yes,Normal,Moderate,Yes,Moderate
 Yes,Normal,Moderate,Yes,Mild
 No,Normal,High,Yes,Mild
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Normal,Moderate,No,Mild
 No,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,High,Yes,Moderate
 No,Normal,High,No,Moderate
-No,Normal,High,Yes,Moderate
-No,Normal,High,Yes,Mild
-No,Normal,High,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
 No,Normal,High,Yes,Severe
@@ -1507,50 +1249,36 @@ No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,High,Yes,Severe
 No,LV Hypertrophy,High,Yes,Severe
 Yes,LV Hypertrophy,Moderate,No,Mild
-No,Normal,Low,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 No,LV Hypertrophy,High,No,Severe
 No,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,Low,Yes,Mild
 No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
-No,Normal,Low,Yes,Mild
 No,Normal,High,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,High,Yes,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 Yes,Normal,Moderate,Yes,Severe
-No,Normal,High,Yes,
+No,Normal,High,Yes,No
 Yes,Normal,High,No,Mild
-No,LV Hypertrophy,High,No,Mild
 No,Normal,High,No,Severe
 Yes,Normal,High,No,Mild
 Yes,Normal,High,No,Severe
-No,Normal,High,No,
 Yes,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,Low,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Abnormal ST-T Wave,Low,Yes,Severe
-No,Normal,High,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Normal,Low,Yes,Severe
-No,Abnormal ST-T Wave,High,Yes,Severe
-Yes,Abnormal ST-T Wave,High,No,Severe
 No,Normal,High,No,Severe
 Yes,Normal,High,No,Severe
-Yes,Normal,High,No,
+Yes,Normal,High,No,No
 No,Abnormal ST-T Wave,High,No,Severe
-No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,No,Severe
 No,Normal,Low,No,Severe
-No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,Low,Yes,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,Moderate,No,Severe
@@ -1559,11 +1287,9 @@ No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
 No,LV Hypertrophy,High,Yes,Mild
 No,Normal,High,No,Severe
-No,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,No,Moderate
 No,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Abnormal ST-T Wave,High,No,Moderate
 Yes,Normal,High,Yes,Severe
 Yes,LV Hypertrophy,High,No,Mild
 Yes,LV Hypertrophy,High,No,Severe
@@ -1573,7 +1299,6 @@ No,Normal,Low,No,Severe
 Yes,LV Hypertrophy,Moderate,Yes,Moderate
 No,Normal,Low,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,Low,No,Severe
 No,LV Hypertrophy,Moderate,No,Severe
 No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
@@ -1588,12 +1313,10 @@ Yes,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,Low,Yes,Mild
 No,Normal,High,Yes,Severe
 No,Normal,High,Yes,Severe
-Yes,Normal,High,Yes,
+Yes,Normal,High,Yes,No
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,Normal,High,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Normal,Moderate,Yes,
-No,Abnormal ST-T Wave,Low,Yes,Severe
+No,Normal,Moderate,Yes,No
 No,LV Hypertrophy,High,No,Severe
 Yes,LV Hypertrophy,Moderate,No,Moderate
 No,Normal,High,No,Severe
@@ -1603,24 +1326,17 @@ No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Abnormal ST-T Wave,Low,No,Severe
-Yes,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,LV Hypertrophy,High,No,Moderate
 No,LV Hypertrophy,High,No,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,Moderate,Yes,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,LV Hypertrophy,Moderate,Yes,Moderate
-No,Normal,Low,Yes,Mild
-No,Normal,High,No,Mild
-No,Abnormal ST-T Wave,High,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,Moderate,No,Severe
 No,Normal,Moderate,Yes,Severe
 No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,High,Yes,Mild
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,Moderate,Yes,Severe
 Yes,Normal,High,No,Moderate
@@ -1628,26 +1344,16 @@ No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Normal,Moderate,Yes,Mild
 Yes,Normal,Moderate,No,Moderate
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,LV Hypertrophy,High,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Moderate
-No,Abnormal ST-T Wave,High,Yes,Moderate
 Yes,LV Hypertrophy,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 Yes,Normal,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,High,Yes,Mild
-No,Normal,Low,Yes,Mild
-No,Normal,Moderate,No,Severe
 No,Normal,Low,No,Moderate
-No,Normal,High,No,Severe
-No,Normal,High,Yes,Mild
 No,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,No,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Mild
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,Normal,Moderate,No,Severe
@@ -1656,48 +1362,36 @@ Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Low,No,Severe
 No,Abnormal ST-T Wave,Low,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,High,No,Mild
 No,Normal,Moderate,No,Moderate
-No,LV Hypertrophy,Moderate,Yes,Mild
 Yes,Normal,Moderate,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,LV Hypertrophy,High,No,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,LV Hypertrophy,Moderate,No,Moderate
 No,Normal,High,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Moderate
 No,LV Hypertrophy,High,Yes,Severe
-Yes,LV Hypertrophy,High,Yes,Severe
 No,Normal,High,No,Mild
 No,Normal,High,No,Mild
 Yes,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,High,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,Moderate,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,No,Moderate
 No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Normal,High,Yes,Moderate
-No,Normal,High,Yes,Severe
-No,Normal,High,Yes,Severe
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,No,Moderate
 No,Normal,High,Yes,Severe
 No,Normal,Moderate,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,LV Hypertrophy,High,No,Severe
 No,Normal,High,Yes,Severe
 No,Normal,High,Yes,Moderate
-Yes,Abnormal ST-T Wave,High,Yes,Moderate
 Yes,LV Hypertrophy,Low,No,Moderate
 No,Normal,High,No,Moderate
 Yes,LV Hypertrophy,Low,No,Mild
@@ -1705,63 +1399,45 @@ No,Normal,High,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Normal,High,No,Severe
 No,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,Low,No,Mild
-Yes,Normal,High,No,Moderate
-No,Normal,Moderate,No,Mild
 No,Normal,Low,Yes,Severe
 Yes,LV Hypertrophy,High,No,Moderate
-No,Normal,Moderate,No,Severe
 No,Normal,Low,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,Low,No,Severe
 No,Normal,High,No,Mild
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,High,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,Low,Yes,Mild
 Yes,Normal,High,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Normal,High,No,Severe
 No,Normal,High,No,Severe
-Yes,Abnormal ST-T Wave,High,No,
+Yes,Abnormal ST-T Wave,High,No,No
 No,Normal,Low,No,Moderate
-No,Normal,High,Yes,
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,Moderate,No,Moderate
-No,Normal,High,No,Moderate
 Yes,Normal,High,No,Severe
 No,Normal,High,No,Severe
 No,Normal,High,No,Severe
-No,Normal,High,No,Severe
-No,LV Hypertrophy,Moderate,No,Moderate
 No,Normal,High,Yes,Mild
 Yes,Normal,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,High,No,Moderate
 No,Normal,High,Yes,Severe
 No,LV Hypertrophy,High,Yes,Mild
-No,Normal,High,No,Severe
-No,Abnormal ST-T Wave,High,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Normal,Low,Yes,Severe
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,Normal,Moderate,No,Severe
 No,Normal,High,Yes,Moderate
-No,Normal,Moderate,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
-Yes,Normal,Moderate,No,Mild
-No,Normal,Moderate,No,Mild
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 Yes,Abnormal ST-T Wave,Moderate,No,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-Yes,Normal,Moderate,Yes,
+Yes,Normal,Moderate,Yes,No
 No,Normal,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,No,Severe
@@ -1771,10 +1447,6 @@ No,Abnormal ST-T Wave,High,No,Severe
 No,Normal,Moderate,No,Severe
 Yes,LV Hypertrophy,High,No,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,High,No,Severe
-No,Normal,High,Yes,Moderate
-No,Normal,Low,No,Severe
-No,LV Hypertrophy,High,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,Yes,Mild
 No,Abnormal ST-T Wave,High,No,Severe
@@ -1782,40 +1454,29 @@ No,Abnormal ST-T Wave,Moderate,No,Severe
 No,LV Hypertrophy,High,No,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Mild
 Yes,Abnormal ST-T Wave,Low,No,Severe
-Yes,Normal,Low,No,Mild
 No,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,No,Severe
 Yes,Normal,Moderate,No,Mild
 No,Normal,Low,No,Mild
 Yes,LV Hypertrophy,High,Yes,Severe
 No,Normal,Low,Yes,Mild
 Yes,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,Yes,Moderate
 No,LV Hypertrophy,High,No,Severe
 Yes,LV Hypertrophy,High,No,Severe
-No,Normal,Moderate,Yes,Mild
-No,Normal,High,Yes,Mild
-No,Normal,Low,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 Yes,Normal,High,No,Mild
 No,Abnormal ST-T Wave,Low,No,Moderate
 No,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,High,Yes,Severe
 Yes,LV Hypertrophy,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Low,Yes,Severe
 Yes,Normal,High,Yes,Severe
 No,LV Hypertrophy,High,Yes,Mild
 Yes,Normal,Moderate,Yes,Severe
-No,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Normal,High,No,Moderate
 Yes,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,Low,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Normal,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
@@ -1831,7 +1492,6 @@ No,Normal,Moderate,No,Severe
 Yes,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,High,No,Severe
 No,Normal,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Severe
 No,Normal,High,No,Mild
@@ -1839,7 +1499,6 @@ No,Abnormal ST-T Wave,High,No,Severe
 Yes,Normal,High,Yes,Mild
 Yes,LV Hypertrophy,High,No,Moderate
 Yes,Normal,High,Yes,Moderate
-No,Normal,High,No,Severe
 Yes,Normal,High,Yes,Severe
 Yes,Normal,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
@@ -1849,30 +1508,23 @@ No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,No,Mild
-No,Normal,Low,Yes,Severe
 No,LV Hypertrophy,High,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 Yes,LV Hypertrophy,High,No,Severe
 Yes,LV Hypertrophy,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,Yes,Moderate
 No,LV Hypertrophy,Moderate,Yes,Severe
-No,Normal,Moderate,No,Severe
-No,Normal,High,No,Severe
 No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,Low,No,Severe
 No,LV Hypertrophy,Low,No,Mild
 No,Normal,High,Yes,Severe
 No,Normal,Moderate,Yes,Moderate
 Yes,Normal,High,Yes,Moderate
 No,Normal,Low,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Mild
 Yes,LV Hypertrophy,High,Yes,Severe
 No,Normal,High,No,Severe
-No,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Severe
@@ -1884,7 +1536,6 @@ Yes,Normal,Low,No,Moderate
 No,LV Hypertrophy,High,No,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Mild
 Yes,LV Hypertrophy,Moderate,Yes,Severe
-No,Normal,High,Yes,Mild
 No,LV Hypertrophy,Moderate,No,Moderate
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Severe
@@ -1893,26 +1544,21 @@ Yes,LV Hypertrophy,High,Yes,Severe
 No,Abnormal ST-T Wave,Low,No,Severe
 No,Normal,Moderate,No,Moderate
 No,Normal,High,Yes,Severe
-No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Normal,Moderate,Yes,Mild
-No,Normal,Low,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Moderate
 No,Normal,Low,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,LV Hypertrophy,High,No,Severe
 No,Normal,High,No,Severe
-No,Normal,Moderate,No,Severe
 No,LV Hypertrophy,Moderate,No,Severe
 Yes,Normal,Moderate,Yes,Moderate
 No,Normal,High,Yes,Severe
@@ -1920,7 +1566,6 @@ Yes,LV Hypertrophy,Low,Yes,Mild
 No,Normal,Moderate,Yes,Moderate
 Yes,LV Hypertrophy,Moderate,No,Severe
 Yes,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,No,Mild
 Yes,LV Hypertrophy,High,No,Moderate
 No,Abnormal ST-T Wave,High,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
@@ -1929,14 +1574,11 @@ No,LV Hypertrophy,Moderate,Yes,Severe
 Yes,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,High,Yes,Severe
-Yes,LV Hypertrophy,High,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,Moderate,Yes,Moderate
-No,Normal,High,No,Mild
 No,Normal,High,No,Severe
 No,Normal,High,Yes,Moderate
 No,Abnormal ST-T Wave,High,No,Severe
@@ -1945,18 +1587,12 @@ No,Normal,Moderate,No,Severe
 Yes,Normal,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,Low,No,Moderate
-No,Normal,Moderate,No,Severe
 No,Normal,High,No,Severe
-Yes,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,Yes,Severe
 Yes,LV Hypertrophy,Moderate,No,Severe
 No,Normal,High,No,Moderate
 No,Normal,High,No,Severe
 Yes,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,Low,Yes,Severe
 No,Normal,Moderate,Yes,Severe
-No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,Yes,
 No,Abnormal ST-T Wave,Moderate,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,High,No,Mild
@@ -1964,28 +1600,21 @@ No,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Mild
 No,LV Hypertrophy,High,Yes,Moderate
-No,Normal,Moderate,Yes,Mild
 No,Normal,High,No,Severe
-No,Abnormal ST-T Wave,High,Yes,Mild
 Yes,Normal,Moderate,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,LV Hypertrophy,Moderate,No,Severe
-No,Normal,Low,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,Severe
+No,Normal,Moderate,No,No
 No,LV Hypertrophy,Low,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,LV Hypertrophy,High,No,Moderate
 No,Normal,Low,No,Mild
 No,LV Hypertrophy,Moderate,No,Severe
 No,Normal,High,No,Moderate
 Yes,Normal,Low,No,Severe
 Yes,Normal,Moderate,No,Severe
-Yes,Normal,High,No,Moderate
 No,LV Hypertrophy,Moderate,No,Mild
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Normal,Moderate,No,Moderate
 No,Normal,High,No,Severe
 No,Normal,Low,Yes,Moderate
 No,Normal,High,No,Severe
@@ -1993,32 +1622,19 @@ No,LV Hypertrophy,High,Yes,Severe
 No,LV Hypertrophy,High,Yes,Moderate
 Yes,Normal,Low,No,Severe
 Yes,LV Hypertrophy,High,No,Mild
-Yes,Normal,High,Yes,
+Yes,Normal,High,Yes,No
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,LV Hypertrophy,High,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,No,
 No,Normal,High,No,Severe
-No,Normal,High,Yes,Severe
 No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,LV Hypertrophy,Moderate,Yes,Mild
-Yes,Normal,Moderate,Yes,Moderate
 No,LV Hypertrophy,High,No,Mild
-No,LV Hypertrophy,High,Yes,Mild
-Yes,Normal,Low,No,Severe
 No,LV Hypertrophy,Moderate,No,Moderate
-Yes,Abnormal ST-T Wave,Moderate,No,Severe
-Yes,Normal,Low,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Severe
 Yes,LV Hypertrophy,Moderate,No,Severe
-No,Normal,Low,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
 No,Normal,Moderate,Yes,Severe
 Yes,Normal,Low,No,Severe
@@ -2034,24 +1650,17 @@ No,Normal,Low,No,Moderate
 No,LV Hypertrophy,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Moderate
 No,LV Hypertrophy,High,No,Severe
-No,Abnormal ST-T Wave,High,No,Severe
-Yes,Abnormal ST-T Wave,Low,Yes,Severe
 No,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,Low,Yes,Severe
-No,Abnormal ST-T Wave,High,Yes,Severe
-Yes,Normal,Low,No,
 No,LV Hypertrophy,Moderate,No,Severe
 Yes,Normal,Moderate,Yes,Severe
 Yes,LV Hypertrophy,High,No,Mild
 Yes,Normal,Low,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,Yes,Moderate
 Yes,Normal,High,No,Moderate
 No,LV Hypertrophy,Moderate,No,Severe
-No,Normal,Low,No,Severe
 Yes,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,LV Hypertrophy,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
@@ -2062,7 +1671,6 @@ Yes,Abnormal ST-T Wave,High,No,Severe
 Yes,Normal,Moderate,Yes,Severe
 No,LV Hypertrophy,High,No,Severe
 No,Normal,Moderate,Yes,Severe
-No,Normal,Moderate,No,Severe
 No,Normal,High,Yes,Mild
 Yes,Normal,Moderate,No,Severe
 No,Abnormal ST-T Wave,Moderate,No,Moderate
@@ -2070,15 +1678,10 @@ Yes,LV Hypertrophy,Moderate,No,Moderate
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 Yes,LV Hypertrophy,High,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Mild
-No,Normal,Moderate,Yes,Severe
 No,Normal,High,No,Severe
 Yes,Normal,Moderate,No,Moderate
-No,LV Hypertrophy,High,No,Mild
 Yes,Normal,High,Yes,Severe
-No,Normal,High,Yes,Moderate
 No,Normal,High,Yes,Mild
-No,Normal,Moderate,Yes,Severe
-No,Normal,Moderate,No,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Normal,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,High,No,Mild
@@ -2090,17 +1693,14 @@ No,Abnormal ST-T Wave,Low,Yes,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,Normal,High,Yes,Severe
 Yes,Normal,High,No,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,Mild
 No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Mild
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,Abnormal ST-T Wave,Low,Yes,Severe
 No,Normal,Moderate,No,Severe
-No,Abnormal ST-T Wave,High,No,Severe
-Yes,LV Hypertrophy,High,No,
+Yes,LV Hypertrophy,High,No,No
 Yes,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,High,Yes,Severe
 No,Normal,High,Yes,Severe
 No,LV Hypertrophy,Moderate,No,Severe
@@ -2112,11 +1712,8 @@ No,Normal,Moderate,Yes,Moderate
 No,Normal,Moderate,No,Severe
 No,LV Hypertrophy,Moderate,Yes,Severe
 Yes,LV Hypertrophy,Moderate,Yes,Severe
-Yes,Abnormal ST-T Wave,High,No,Moderate
 Yes,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-Yes,Normal,High,Yes,Severe
-No,LV Hypertrophy,Moderate,No,Mild
 No,Abnormal ST-T Wave,High,Yes,Severe
 No,LV Hypertrophy,High,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Mild
@@ -2132,12 +1729,8 @@ No,Abnormal ST-T Wave,Moderate,Yes,Severe
 Yes,Normal,Moderate,No,Mild
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,Low,No,Severe
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,No,Mild
 No,Abnormal ST-T Wave,Low,Yes,Severe
 No,Normal,High,Yes,Moderate
 No,LV Hypertrophy,High,No,Severe
@@ -2145,36 +1738,26 @@ Yes,Abnormal ST-T Wave,High,Yes,Mild
 Yes,Normal,High,Yes,Severe
 No,Normal,Moderate,Yes,Severe
 No,Normal,Moderate,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,Moderate,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,LV Hypertrophy,Moderate,No,Severe
-No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,Yes,Moderate
 No,LV Hypertrophy,High,Yes,Moderate
 No,LV Hypertrophy,High,Yes,Severe
 Yes,LV Hypertrophy,High,Yes,Severe
 No,LV Hypertrophy,High,Yes,Moderate
-No,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,Yes,
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Normal,Moderate,No,Severe
 No,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Severe
 No,LV Hypertrophy,Moderate,Yes,Moderate
-No,Normal,Moderate,Yes,Mild
 Yes,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,Low,Yes,Moderate
-No,Abnormal ST-T Wave,Low,No,Moderate
 No,LV Hypertrophy,High,Yes,Mild
 No,Abnormal ST-T Wave,High,Yes,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Moderate
-No,Normal,Low,Yes,Severe
-No,Normal,Moderate,No,Severe
 No,Normal,High,Yes,Severe
 No,LV Hypertrophy,Low,No,Moderate
 No,Abnormal ST-T Wave,Moderate,No,Severe
-No,LV Hypertrophy,Moderate,Yes,Moderate
 No,Normal,High,No,Mild
 Yes,Abnormal ST-T Wave,High,No,Mild
 No,Abnormal ST-T Wave,High,No,Mild
@@ -2187,19 +1770,14 @@ Yes,LV Hypertrophy,High,No,Severe
 No,Normal,Moderate,Yes,Mild
 Yes,Normal,High,Yes,Severe
 No,Abnormal ST-T Wave,Moderate,No,Mild
-No,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,High,Yes,Moderate
 No,Normal,High,Yes,Severe
 No,Normal,High,No,Severe
-No,LV Hypertrophy,High,No,Severe
 Yes,Abnormal ST-T Wave,High,Yes,Severe
 No,Normal,Moderate,No,Severe
-No,Normal,High,Yes,Moderate
 No,Normal,High,Yes,Severe
-No,Abnormal ST-T Wave,Low,Yes,Severe
 No,Normal,Low,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Mild
-No,Normal,High,Yes,Severe
 No,Normal,Low,Yes,Severe
 No,LV Hypertrophy,Moderate,No,Severe
 No,Normal,Low,Yes,Moderate
@@ -2207,18 +1785,13 @@ No,Normal,Moderate,Yes,Moderate
 Yes,Abnormal ST-T Wave,High,No,Severe
 No,LV Hypertrophy,High,Yes,Severe
 No,Normal,Moderate,Yes,Severe
-No,Abnormal ST-T Wave,Moderate,No,Moderate
 No,Abnormal ST-T Wave,High,Yes,Moderate
 No,LV Hypertrophy,Low,Yes,Severe
-No,Normal,Low,Yes,Moderate
 Yes,LV Hypertrophy,High,Yes,Severe
-No,Normal,High,No,Mild
-No,Normal,Moderate,Yes,Severe
 No,LV Hypertrophy,High,Yes,Severe
 Yes,Abnormal ST-T Wave,Low,Yes,Severe
 Yes,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,High,Yes,Severe
 Yes,Normal,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Severe
 No,Abnormal ST-T Wave,High,No,Mild
@@ -2231,8 +1804,8 @@ No,Normal,Moderate,No,Severe
 No,Normal,High,No,Severe
 Yes,Normal,High,No,Moderate
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,High,No,
-No,Normal,High,Yes,
+No,Normal,High,No,No
+No,Normal,High,Yes,No
 No,Abnormal ST-T Wave,Moderate,Yes,Severe
 No,Normal,Moderate,No,Moderate
 No,Normal,Moderate,Yes,Severe
@@ -2246,461 +1819,5 @@ No,Normal,Moderate,Yes,Mild
 No,Abnormal ST-T Wave,High,No,Mild
 Yes,Abnormal ST-T Wave,High,Yes,Mild
 No,Normal,Moderate,Yes,Moderate
-No,Normal,High,No,
+No,Normal,High,No,No
 No,Abnormal ST-T Wave,High,Yes,Severe
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,LV Hypertrophy,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,Low,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,Moderate
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-Yes,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-Yes,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Low,No,
-No,Normal,High,Yes,
-No,Normal,High,No,
-,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,High,No,Moderate
-No,Normal,High,No,
-No,Normal,High,No,
-Yes,Normal,Moderate,Yes,
-No,Abnormal ST-T Wave,High,,Moderate
-Yes,Abnormal ST-T Wave,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-,Normal,Moderate,No,Mild
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-Yes,Normal,Moderate,No,
-No,Abnormal ST-T Wave,High,No,
-,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,No,
-No,LV Hypertrophy,High,No,
-Yes,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,LV Hypertrophy,Moderate,No,
-No,Normal,Moderate,No,
-,Abnormal ST-T Wave,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-Yes,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,LV Hypertrophy,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-,Normal,High,Yes,Mild
-No,Normal,High,No,
-,Normal,Moderate,Yes,Mild
-No,Normal,High,Yes,
-No,Normal,Moderate,No,
-Yes,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,High,No,
-No,Normal,Moderate,Yes,
-No,Normal,High,No,
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,Moderate,No,
-No,Normal,High,Yes,Mild
-No,Normal,High,No,
-No,Abnormal ST-T Wave,High,No,
-No,Normal,Moderate,Yes,
-No,Normal,Moderate,No,
-No,Normal,High,No,
-No,Normal,Moderate,Yes,Moderate
-No,Normal,Moderate,Yes,
-No,Normal,High,Yes,Moderate
-No,Normal,Moderate,Yes,
-Yes,Abnormal ST-T Wave,Low,No,
-Yes,Normal,High,No,
-No,Normal,Moderate,No,
-No,,Moderate,No,
-No,Normal,Moderate,No,
-Yes,LV Hypertrophy,Moderate,Yes,
-No,Normal,Low,Yes,Mild
-No,Normal,Moderate,No,
-No,Normal,Low,Yes,
-No,Normal,Low,Yes,Severe
-,Normal,Moderate,No,Mild
-,,High,No,Mild
-,Normal,Moderate,Yes,Severe
-,Normal,Moderate,Yes,Mild
-,Normal,High,No,Severe
-No,Normal,High,No,
-,Normal,High,No,Mild
-No,Normal,Moderate,Yes,
-,Normal,High,No,
-,Normal,Moderate,Yes,Severe
-,Abnormal ST-T Wave,High,No,
-,Normal,High,No,Moderate
-,Normal,Moderate,Yes,Mild
-No,Normal,Low,Yes,
-,Normal,Moderate,No,Moderate
-No,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-,Normal,Moderate,No,Mild
-,Abnormal ST-T Wave,Moderate,No,Mild
-No,Normal,Moderate,Yes,Moderate
-,Normal,Moderate,Yes,
-No,Normal,Moderate,Yes,Mild
-,Abnormal ST-T Wave,High,No,Severe
-No,Normal,Moderate,Yes,
-,Normal,Moderate,No,
-,Normal,Moderate,No,
-No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,Yes,
-,Normal,Moderate,Yes,Mild
-,Normal,Moderate,Yes,Moderate
-,Normal,Low,No,
-Yes,Normal,Moderate,No,
-,Normal,High,No,Mild
-,Abnormal ST-T Wave,High,No,
-No,Normal,Low,No,
-,Normal,Moderate,No,Severe
-,Normal,Moderate,No,
-,Normal,Moderate,Yes,Moderate
-,Normal,Moderate,Yes,Mild
-,Normal,Low,Yes,Severe
-No,Normal,Low,No,
-,Abnormal ST-T Wave,Moderate,No,Mild
-No,Normal,Moderate,No,
-,LV Hypertrophy,Moderate,Yes,
-,Normal,Moderate,No,
-,Normal,Moderate,No,Moderate
-No,LV Hypertrophy,Moderate,Yes,Mild
-,Normal,High,Yes,Moderate
-No,Normal,High,No,
-,Normal,Moderate,Yes,Severe
-,Normal,High,No,Moderate
-,Abnormal ST-T Wave,High,No,Mild
-,Normal,High,No,Mild
-No,Abnormal ST-T Wave,Low,No,Mild
-No,Normal,Low,No,
-No,Normal,Low,No,
-,Normal,Low,No,Mild
-No,Abnormal ST-T Wave,Low,No,
-,Abnormal ST-T Wave,Low,No,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
-Yes,Normal,Moderate,Yes,Mild
-,Normal,Moderate,Yes,Moderate
-,Normal,High,No,Mild
-,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Moderate,Yes,Moderate
-,Normal,Moderate,Yes,
-,Normal,Low,Yes,Moderate
-,Normal,High,No,Mild
-,Normal,Moderate,No,Mild
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-,Abnormal ST-T Wave,Moderate,Yes,
-,Normal,High,No,Severe
-,Normal,Low,No,
-No,Normal,Moderate,No,
-,Normal,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,Mild
-,Normal,High,No,Severe
-,Normal,Moderate,No,Mild
-,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Low,Yes,Mild
-No,Abnormal ST-T Wave,Low,Yes,Mild
-,Normal,High,No,Mild
-,Abnormal ST-T Wave,Low,No,
-,Normal,Moderate,Yes,Moderate
-,Normal,Moderate,No,Moderate
-No,Normal,Moderate,Yes,
-No,LV Hypertrophy,Moderate,No,
-,Normal,Low,No,Severe
-No,Normal,Moderate,Yes,
-No,Normal,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,High,No,Mild
-,Normal,High,No,
-,Abnormal ST-T Wave,Moderate,Yes,Moderate
-,LV Hypertrophy,Moderate,No,Mild
-No,Normal,Low,Yes,
-,Normal,Moderate,Yes,Severe
-,Normal,Low,Yes,Mild
-,Abnormal ST-T Wave,Low,No,Moderate
-,Normal,Moderate,No,Mild
-,LV Hypertrophy,High,No,Moderate
-No,Normal,Low,Yes,Moderate
-,Abnormal ST-T Wave,High,No,Severe
-No,Normal,Low,Yes,
-No,Normal,Moderate,Yes,Mild
-,Normal,High,No,Moderate
-,Normal,Moderate,Yes,Moderate
-No,Normal,Low,Yes,
-,Abnormal ST-T Wave,Low,No,Severe
-,Normal,High,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,No,Severe
-,Normal,Low,No,
-No,Normal,Moderate,Yes,Moderate
-No,LV Hypertrophy,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,
-,Normal,Moderate,No,Moderate
-No,Normal,Moderate,No,
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,Low,Yes,
-Yes,Normal,High,Yes,Moderate
-,LV Hypertrophy,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
-,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,Yes,
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-,Normal,High,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,Mild
-No,LV Hypertrophy,High,,Severe
-Yes,Abnormal ST-T Wave,High,Yes,Mild
-No,Abnormal ST-T Wave,Low,No,
-No,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,Moderate,No,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,High,,Severe
-No,Abnormal ST-T Wave,High,No,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,,Severe
-No,Normal,High,No,Moderate
-No,Normal,Moderate,Yes,Moderate
-No,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,,Severe
-No,Normal,Moderate,Yes,Moderate
-Yes,Normal,High,,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-No,Normal,Low,Yes,
-Yes,Normal,High,No,
-Yes,Abnormal ST-T Wave,Low,No,Moderate
-No,Abnormal ST-T Wave,Moderate,No,
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Normal,Low,Yes,
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,Moderate
-,Normal,High,No,
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,High,,Severe
-No,Normal,Moderate,No,
-No,Normal,Moderate,Yes,Severe
-,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Normal,High,,Severe
-Yes,LV Hypertrophy,Moderate,Yes,
-Yes,LV Hypertrophy,High,,Severe
-,Normal,Moderate,Yes,Moderate
-,Abnormal ST-T Wave,High,Yes,Moderate
-No,LV Hypertrophy,Moderate,Yes,Severe
-Yes,Normal,Moderate,Yes,Moderate
-,Abnormal ST-T Wave,Moderate,No,Severe
-No,LV Hypertrophy,Moderate,Yes,Moderate
-No,Normal,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,
-No,Abnormal ST-T Wave,High,No,Severe
-No,Normal,High,,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Moderate
-Yes,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Normal,Low,Yes,
-Yes,Normal,High,No,Moderate
-No,Normal,Moderate,No,
-No,Normal,High,,Severe
-Yes,Abnormal ST-T Wave,Low,Yes,Moderate
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,Yes,Severe
-No,Normal,Moderate,No,Mild
-Yes,Abnormal ST-T Wave,High,No,Severe
-Yes,Normal,Moderate,No,
-,Abnormal ST-T Wave,Moderate,Yes,Mild
-No,Normal,Moderate,Yes,Mild
-No,Abnormal ST-T Wave,High,No,
-No,Normal,High,,Severe
-No,LV Hypertrophy,High,,Severe
-No,Normal,High,,Severe
-No,Normal,High,,Severe
-No,Normal,High,,Severe
-No,Normal,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,
-No,LV Hypertrophy,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-No,LV Hypertrophy,Moderate,No,
-No,Abnormal ST-T Wave,High,,Severe
-No,LV Hypertrophy,Moderate,No,Severe
-Yes,Normal,Moderate,Yes,
-No,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,High,No,
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Normal,Low,No,Moderate
-No,LV Hypertrophy,Low,No,
-No,Normal,High,,Severe
-Yes,Normal,High,,Severe
-Yes,Abnormal ST-T Wave,High,No,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,
-Yes,Normal,High,,Severe
-Yes,LV Hypertrophy,Moderate,No,Moderate
-Yes,Abnormal ST-T Wave,High,,Severe
-Yes,Normal,High,,Severe
-No,Abnormal ST-T Wave,Moderate,Yes,Severe
-No,Normal,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-Yes,LV Hypertrophy,High,,Severe
-No,Normal,High,Yes,Moderate
-Yes,LV Hypertrophy,Low,Yes,
-No,LV Hypertrophy,High,,Severe
-Yes,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,Mild
-Yes,Normal,Low,No,
-No,Abnormal ST-T Wave,High,,Severe
-No,Abnormal ST-T Wave,Moderate,No,
-Yes,LV Hypertrophy,Moderate,No,
-No,LV Hypertrophy,Moderate,No,
-No,Abnormal ST-T Wave,High,,Severe
-No,Normal,High,,Severe
-No,Normal,Low,Yes,
-Yes,Normal,High,Yes,
-No,Abnormal ST-T Wave,Moderate,Yes,
-No,Normal,Moderate,No,
-Yes,Abnormal ST-T Wave,High,No,
-No,Abnormal ST-T Wave,High,,Severe
-Yes,Abnormal ST-T Wave,Moderate,No,
-Yes,LV Hypertrophy,High,,Severe
-No,LV Hypertrophy,Low,Yes,

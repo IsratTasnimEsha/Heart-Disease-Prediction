@@ -77,7 +77,6 @@ Senior,Male,Asymptomatic,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,Desirable
 Young,Male,Asymptomatic,Normal,High
 Young,Female,Asymptomatic,Pre-high,Desirable
-Senior,Male,Atypical Angina,Pre-high,Desirable
 Middle-aged,Male,Asymptomatic,Normal,Borderline High
 Senior,Male,Non-anginal Pain,Normal,High
 Senior,Male,Atypical Angina,Normal,Borderline High
@@ -97,7 +96,6 @@ Young,Female,Non-anginal Pain,Normal,Desirable
 Senior,Male,Asymptomatic,Normal,High
 Middle-aged,Male,Atypical Angina,Pre-high,Borderline High
 Young,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
 Middle-aged,Male,Atypical Angina,Normal,High
 Elderly,Male,Asymptomatic,Normal,High
 Senior,Male,Asymptomatic,Normal,Desirable
@@ -148,7 +146,6 @@ Young,Male,Asymptomatic,Normal,High
 Middle-aged,Male,Atypical Angina,Normal,Desirable
 Middle-aged,Female,Atypical Angina,Normal,High
 Middle-aged,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,High
 Young,Male,Atypical Angina,Normal,Borderline High
 Middle-aged,Male,Atypical Angina,Low,Desirable
 Young,Male,Atypical Angina,Normal,High
@@ -226,7 +223,6 @@ Young,Male,Non-anginal Pain,Normal,High
 Senior,Male,Atypical Angina,Normal,High
 Middle-aged,Male,Asymptomatic,Pre-high,High
 Senior,Male,Non-anginal Pain,Normal,Desirable
-Young,Male,Asymptomatic,Low,Desirable
 Middle-aged,Male,Atypical Angina,Normal,High
 Young,Female,Asymptomatic,Normal,Desirable
 Young,Male,Asymptomatic,Normal,High
@@ -292,198 +288,32 @@ Young,Male,Atypical Angina,Normal,Desirable
 Middle-aged,Male,Non-anginal Pain,Normal,Borderline High
 Middle-aged,Female,Atypical Angina,Pre-high,High
 Senior,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,High
-Young,Male,Typical Angina,Low,High
-Elderly,Male,Asymptomatic,Low,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,High,High
-Senior,Male,Atypical Angina,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Female,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Low,High
-Senior,Female,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Low,High
-Elderly,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Low,High
-Elderly,Male,Atypical Angina,Pre-high,High
-Senior,Male,Non-anginal Pain,Low,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Asymptomatic,Low,High
-Young,Female,Asymptomatic,Low,High
-Elderly,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Low,High
-Middle-aged,Male,Asymptomatic,Low,High
-Middle-aged,Male,Non-anginal Pain,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Low,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Young,Male,Non-anginal Pain,Low,High
-Young,Male,Asymptomatic,Low,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Typical Angina,Normal,High
-Elderly,Male,Non-anginal Pain,High,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Elderly,Female,Asymptomatic,Low,High
-Middle-aged,Male,Asymptomatic,Low,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Young,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Typical Angina,Pre-high,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Senior,Male,Atypical Angina,Normal,High
-Young,Male,Non-anginal Pain,Normal,High
-Senior,Male,Non-anginal Pain,Low,High
-Elderly,Male,Non-anginal Pain,High,High
-Middle-aged,Male,Asymptomatic,High,High
-Senior,Male,Non-anginal Pain,High,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,Normal,High
-Elderly,Female,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Female,Non-anginal Pain,High,High
-Middle-aged,Male,Non-anginal Pain,High,High
-Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,High,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Young,Female,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Normal,High
-Young,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,High,High
-Young,Male,Asymptomatic,Pre-high,High
-Elderly,Female,Typical Angina,Pre-high,High
-Senior,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,High,High
-Elderly,Male,Non-anginal Pain,High,High
-Middle-aged,Female,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Non-anginal Pain,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,High,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Female,Asymptomatic,High,High
 Elderly,Male,Asymptomatic,Pre-high,High
 Middle-aged,Male,Asymptomatic,Normal,Borderline High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
 Elderly,Male,Non-anginal Pain,Normal,Borderline High
-Elderly,Male,Non-anginal Pain,Normal,High
 Elderly,Male,Asymptomatic,Pre-high,Borderline High
-Senior,Male,Non-anginal Pain,High,High
-Senior,Male,Non-anginal Pain,Normal,High
 Senior,Male,Atypical Angina,High,High
 Senior,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
 Elderly,Male,Asymptomatic,Normal,Borderline High
 Elderly,Male,Asymptomatic,High,Desirable
 Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Elderly,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,Desirable
 Senior,Male,Asymptomatic,Normal,Desirable
 Senior,Male,Non-anginal Pain,Pre-high,Borderline High
-Senior,Male,Asymptomatic,Normal,High
 Elderly,Male,Asymptomatic,Normal,Desirable
 Elderly,Male,Asymptomatic,High,Borderline High
-Senior,Male,Non-anginal Pain,Low,High
-Senior,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
 Senior,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
-Senior,Male,Asymptomatic,High,High
-Elderly,Male,Non-anginal Pain,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Asymptomatic,Low,High
 Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Pre-high,High
 Senior,Male,Asymptomatic,Normal,Borderline High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,High
-Elderly,Female,Atypical Angina,Pre-high,High
 Elderly,Male,Asymptomatic,High,Desirable
 Senior,Male,Atypical Angina,Normal,Borderline High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,High,High
 Senior,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Atypical Angina,Pre-high,High
-Senior,Male,Asymptomatic,High,High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
-Elderly,Male,Asymptomatic,Normal,High
 Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,High,High
-Senior,Male,Atypical Angina,Normal,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Typical Angina,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Asymptomatic,Pre-high,High
 Elderly,Male,Atypical Angina,Pre-high,Borderline High
 Senior,Male,Atypical Angina,Normal,Borderline High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
@@ -491,11 +321,9 @@ Elderly,Male,Typical Angina,Pre-high,High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
 Elderly,Male,Non-anginal Pain,Normal,Borderline High
 Elderly,Male,Asymptomatic,High,Borderline High
-Middle-aged,Male,Typical Angina,Normal,High
 Senior,Male,Non-anginal Pain,Pre-high,High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
 Elderly,Female,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Pre-high,High
 Elderly,Male,Asymptomatic,Pre-high,High
 Elderly,Male,Asymptomatic,High,High
 Elderly,Male,Asymptomatic,Pre-high,High
@@ -507,17 +335,12 @@ Elderly,Male,Asymptomatic,High,Borderline High
 Senior,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Asymptomatic,Pre-high,Borderline High
 Young,Male,Non-anginal Pain,Low,High
-Elderly,Male,Asymptomatic,Normal,High
 Senior,Male,Asymptomatic,Normal,Desirable
 Senior,Male,Asymptomatic,Pre-high,Desirable
 Elderly,Male,Asymptomatic,High,High
-Young,Male,Non-anginal Pain,Normal,Desirable
 Elderly,Male,Typical Angina,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Elderly,Male,Non-anginal Pain,Normal,High
 Elderly,Male,Non-anginal Pain,Pre-high,Desirable
 Elderly,Male,Asymptomatic,Pre-high,Borderline High
-Middle-aged,Male,Non-anginal Pain,Low,High
 Elderly,Male,Asymptomatic,Low,High
 Elderly,Male,Asymptomatic,Normal,Borderline High
 Elderly,Male,Asymptomatic,Normal,High
@@ -534,13 +357,10 @@ Elderly,Male,Asymptomatic,Pre-high,High
 Senior,Male,Asymptomatic,Normal,Desirable
 Elderly,Male,Asymptomatic,Normal,High
 Senior,Male,Asymptomatic,Normal,Borderline High
-Senior,Male,Asymptomatic,Normal,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Asymptomatic,Pre-high,High
 Senior,Male,Asymptomatic,Normal,Borderline High
 Senior,Male,Asymptomatic,Normal,Desirable
 Elderly,Male,Non-anginal Pain,Pre-high,Borderline High
-Elderly,Male,Non-anginal Pain,Low,Desirable
 Senior,Female,Asymptomatic,Pre-high,High
 Elderly,Male,Asymptomatic,High,Desirable
 Elderly,Female,Atypical Angina,Pre-high,High
@@ -571,8 +391,6 @@ Young,Male,Asymptomatic,Normal,High
 Senior,Male,Asymptomatic,High,Borderline High
 Senior,Male,Asymptomatic,Normal,Borderline High
 Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
 Elderly,Male,Asymptomatic,Pre-high,Borderline High
 Senior,Male,Asymptomatic,Pre-high,High
 Elderly,Male,Asymptomatic,Pre-high,Desirable
@@ -1219,45 +1037,30 @@ Middle-aged,Male,Asymptomatic,Normal,High
 Elderly,Male,Typical Angina,Pre-high,Desirable
 Senior,Male,Typical Angina,Normal,Desirable
 Senior,Female,Atypical Angina,Normal,Borderline High
-Senior,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Low,Borderline High
 Middle-aged,Male,Non-anginal Pain,Pre-high,Desirable
 Middle-aged,Male,Typical Angina,Pre-high,High
-Young,Male,Atypical Angina,High,High
-Young,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Normal,High
 Senior,Male,Typical Angina,Normal,High
-Elderly,Male,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,High,Desirable
 Senior,Female,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
-Young,Male,Typical Angina,Normal,Desirable
 Senior,Male,Typical Angina,Low,Borderline High
 Senior,Male,Typical Angina,High,High
-Young,Male,Non-anginal Pain,High,High
 Middle-aged,Female,Asymptomatic,Pre-high,High
 Elderly,Male,Typical Angina,High,High
 Senior,Male,Non-anginal Pain,High,Desirable
-Young,Male,Typical Angina,Normal,High
 Young,Male,Asymptomatic,High,High
 Elderly,Male,Atypical Angina,High,High
 Young,Female,Typical Angina,Pre-high,Desirable
 Senior,Male,Non-anginal Pain,High,Borderline High
 Young,Male,Atypical Angina,High,High
-Elderly,Male,Atypical Angina,Low,High
-Middle-aged,Male,Typical Angina,High,High
-Middle-aged,Male,Typical Angina,High,High
 Elderly,Female,Non-anginal Pain,Normal,High
 Middle-aged,Female,Atypical Angina,High,High
-Young,Female,Typical Angina,Low,Desirable
-Young,Male,Typical Angina,High,High
 Elderly,Female,Typical Angina,High,High
-Young,Male,Typical Angina,High,High
-Young,Male,Non-anginal Pain,High,Desirable
 Elderly,Male,Typical Angina,Normal,High
 Elderly,Male,Atypical Angina,High,Borderline High
 Young,Male,Typical Angina,High,High
-Young,Male,Atypical Angina,Low,High
 Middle-aged,Female,Typical Angina,Pre-high,High
 Young,Male,Non-anginal Pain,High,High
 Senior,Male,Non-anginal Pain,Normal,High
@@ -1267,9 +1070,6 @@ Young,Female,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Typical Angina,Normal,High
 Middle-aged,Male,Typical Angina,High,High
-Young,Male,Typical Angina,Normal,High
-Senior,Male,Typical Angina,Normal,High
-Elderly,Male,Atypical Angina,Normal,Desirable
 Middle-aged,Male,Atypical Angina,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,High,Borderline High
@@ -1278,7 +1078,6 @@ Elderly,Female,Typical Angina,High,Borderline High
 Middle-aged,Male,Non-anginal Pain,Normal,Desirable
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,Borderline High
-Young,Male,Typical Angina,Pre-high,Desirable
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Female,Typical Angina,Pre-high,High
@@ -1287,104 +1086,73 @@ Elderly,Female,Asymptomatic,Pre-high,High
 Young,Male,Typical Angina,High,Desirable
 Elderly,Male,Asymptomatic,High,High
 Elderly,Male,Typical Angina,Pre-high,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Typical Angina,Normal,High
 Elderly,Male,Non-anginal Pain,High,High
-Elderly,Female,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,Desirable
 Middle-aged,Female,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Atypical Angina,High,High
 Senior,Male,Atypical Angina,High,High
 Elderly,Male,Typical Angina,Pre-high,High
-Elderly,Female,Non-anginal Pain,Pre-high,Desirable
 Senior,Male,Non-anginal Pain,High,Desirable
 Middle-aged,Female,Typical Angina,Normal,High
 Young,Male,Typical Angina,Pre-high,High
-Young,Male,Atypical Angina,Normal,High
 Elderly,Male,Non-anginal Pain,Normal,High
-Senior,Male,Typical Angina,Low,Desirable
 Elderly,Male,Asymptomatic,High,High
 Senior,Male,Non-anginal Pain,Pre-high,High
-Young,Male,Asymptomatic,Pre-high,Borderline High
 Young,Male,Typical Angina,Pre-high,High
 Middle-aged,Female,Typical Angina,High,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Atypical Angina,High,High
-Middle-aged,Female,Atypical Angina,High,Borderline High
 Young,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
-Middle-aged,Female,Typical Angina,High,High
 Elderly,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,Low,High
-Elderly,Male,Typical Angina,Normal,Desirable
 Middle-aged,Male,Atypical Angina,High,High
 Young,Male,Atypical Angina,High,High
 Young,Female,Typical Angina,Low,Borderline High
-Elderly,Male,Atypical Angina,Normal,High
 Young,Female,Typical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
-Elderly,Male,Typical Angina,Low,High
 Elderly,Male,Typical Angina,High,Borderline High
 Young,Male,Typical Angina,High,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,High,Borderline High
 Young,Female,Atypical Angina,High,High
 Elderly,Male,Typical Angina,Normal,Desirable
-Young,Male,Typical Angina,Pre-high,Desirable
-Young,Male,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,Pre-high,High
 Elderly,Male,Typical Angina,High,High
 Middle-aged,Male,Typical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
-Young,Female,Non-anginal Pain,Low,High
 Young,Male,Non-anginal Pain,High,Borderline High
 Middle-aged,Male,Atypical Angina,High,High
 Senior,Male,Atypical Angina,Low,High
 Young,Male,Typical Angina,Normal,High
-Elderly,Female,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
-Elderly,Male,Typical Angina,Low,High
 Elderly,Male,Typical Angina,High,High
 Elderly,Male,Atypical Angina,Normal,Desirable
 Senior,Female,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Typical Angina,High,Desirable
 Middle-aged,Male,Atypical Angina,Low,Desirable
 Elderly,Male,Non-anginal Pain,High,Borderline High
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Typical Angina,Pre-high,High
-Young,Male,Typical Angina,Normal,High
 Middle-aged,Male,Atypical Angina,High,High
 Middle-aged,Male,Non-anginal Pain,High,High
-Young,Male,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,High,High
-Middle-aged,Male,Typical Angina,High,High
-Elderly,Male,Typical Angina,High,High
 Young,Male,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Female,Atypical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
 Elderly,Male,Typical Angina,High,High
 Young,Female,Non-anginal Pain,Normal,High
 Young,Female,Non-anginal Pain,Low,High
 Senior,Male,Non-anginal Pain,Pre-high,High
-Young,Male,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,High,Borderline High
-Young,Male,Atypical Angina,High,High
 Middle-aged,Male,Atypical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Atypical Angina,Low,High
 Elderly,Male,Typical Angina,Pre-high,Desirable
 Senior,Male,Non-anginal Pain,High,High
-Middle-aged,Male,Typical Angina,Pre-high,Desirable
 Elderly,Male,Atypical Angina,High,High
 Elderly,Female,Typical Angina,Pre-high,Borderline High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Female,Non-anginal Pain,Pre-high,High
 Young,Female,Typical Angina,High,High
 Middle-aged,Male,Asymptomatic,High,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Female,Typical Angina,Pre-high,Desirable
 Young,Male,Non-anginal Pain,High,High
 Senior,Male,Non-anginal Pain,High,High
@@ -1399,7 +1167,6 @@ Young,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,Normal,High
 Senior,Female,Typical Angina,Pre-high,High
 Elderly,Female,Non-anginal Pain,Pre-high,High
-Elderly,Male,Typical Angina,Normal,Borderline High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Atypical Angina,High,High
 Middle-aged,Female,Typical Angina,High,High
@@ -1411,9 +1178,7 @@ Senior,Female,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Asymptomatic,High,Borderline High
-Young,Male,Atypical Angina,High,High
 Young,Male,Atypical Angina,Low,Desirable
-Elderly,Male,Typical Angina,Normal,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Typical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
@@ -1429,33 +1194,20 @@ Young,Male,Typical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Senior,Male,Atypical Angina,High,Desirable
-Young,Male,Typical Angina,High,High
-Young,Male,Typical Angina,High,Desirable
 Young,Male,Atypical Angina,High,High
 Elderly,Male,Typical Angina,Pre-high,Desirable
 Young,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Female,Typical Angina,High,High
-Elderly,Female,Typical Angina,Pre-high,High
-Elderly,Male,Typical Angina,Normal,High
-Young,Male,Typical Angina,Normal,Desirable
 Young,Female,Atypical Angina,High,Borderline High
-Elderly,Male,Atypical Angina,High,Desirable
-Young,Male,Typical Angina,High,High
 Young,Male,Atypical Angina,High,High
 Young,Male,Atypical Angina,Low,Desirable
 Elderly,Female,Typical Angina,High,High
 Senior,Male,Typical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
-Young,Male,Typical Angina,Pre-high,High
-Young,Female,Typical Angina,High,High
 Young,Female,Typical Angina,Pre-high,High
-Senior,Male,Non-anginal Pain,Pre-high,High
 Elderly,Female,Typical Angina,Pre-high,High
 Young,Female,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,Pre-high,High
-Elderly,Female,Non-anginal Pain,Low,High
-Elderly,Male,Typical Angina,Normal,High
 Senior,Female,Typical Angina,Pre-high,Desirable
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
@@ -1472,31 +1224,21 @@ Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Typical Angina,Low,High
 Young,Male,Asymptomatic,High,High
 Middle-aged,Male,Non-anginal Pain,Normal,High
-Middle-aged,Male,Typical Angina,Normal,Desirable
 Senior,Female,Typical Angina,Pre-high,Desirable
 Senior,Male,Typical Angina,High,High
-Elderly,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Typical Angina,Normal,High
 Young,Male,Atypical Angina,Low,High
 Middle-aged,Male,Atypical Angina,High,High
-Middle-aged,Male,Atypical Angina,High,High
-Middle-aged,Male,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,High,High
-Young,Male,Typical Angina,Low,High
 Middle-aged,Female,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Atypical Angina,High,High
 Middle-aged,Male,Atypical Angina,High,High
 Senior,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
-Senior,Female,Typical Angina,Pre-high,Borderline High
 Young,Female,Typical Angina,Normal,High
 Elderly,Male,Non-anginal Pain,High,High
-Elderly,Male,Typical Angina,Low,High
 Senior,Male,Non-anginal Pain,High,High
-Senior,Male,Typical Angina,Normal,Desirable
-Senior,Male,Typical Angina,Pre-high,High
-Middle-aged,Male,Atypical Angina,Normal,High
 Elderly,Male,Atypical Angina,High,Desirable
 Young,Male,Atypical Angina,High,Desirable
 Elderly,Male,Non-anginal Pain,High,High
@@ -1507,50 +1249,36 @@ Young,Male,Asymptomatic,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,Pre-high,High
-Young,Male,Typical Angina,Normal,Desirable
 Senior,Male,Typical Angina,Pre-high,High
 Elderly,Male,Atypical Angina,High,Desirable
 Young,Male,Typical Angina,Normal,Desirable
-Elderly,Female,Atypical Angina,High,Desirable
 Senior,Female,Non-anginal Pain,High,High
 Elderly,Female,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,Pre-high,Desirable
-Young,Male,Typical Angina,Pre-high,Desirable
 Senior,Male,Non-anginal Pain,Normal,Desirable
 Middle-aged,Female,Non-anginal Pain,Normal,Desirable
-Elderly,Male,Typical Angina,Low,High
 Elderly,Male,Asymptomatic,High,High
 Elderly,Female,Typical Angina,High,High
 Middle-aged,Male,Non-anginal Pain,High,Borderline High
 Young,Male,Typical Angina,Normal,High
 Young,Female,Atypical Angina,High,High
 Middle-aged,Female,Typical Angina,High,High
-Elderly,Male,Non-anginal Pain,High,High
 Senior,Male,Typical Angina,Normal,Desirable
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Asymptomatic,High,High
-Elderly,Female,Typical Angina,Normal,High
 Elderly,Male,Atypical Angina,High,High
-Middle-aged,Male,Typical Angina,Pre-high,Borderline High
 Middle-aged,Female,Non-anginal Pain,Normal,Borderline High
-Middle-aged,Male,Typical Angina,Normal,Desirable
-Elderly,Male,Typical Angina,Pre-high,Desirable
 Middle-aged,Female,Typical Angina,Pre-high,High
 Young,Male,Non-anginal Pain,High,High
 Elderly,Male,Typical Angina,Normal,Desirable
-Young,Male,Atypical Angina,High,High
-Young,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Atypical Angina,High,High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Female,Typical Angina,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
-Young,Male,Non-anginal Pain,High,High
 Elderly,Female,Typical Angina,Normal,Desirable
 Senior,Male,Atypical Angina,High,High
 Young,Male,Typical Angina,Pre-high,Desirable
 Senior,Male,Atypical Angina,High,High
-Senior,Male,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Female,Typical Angina,Pre-high,Borderline High
 Elderly,Female,Non-anginal Pain,Pre-high,High
 Young,Male,Typical Angina,Normal,High
@@ -1559,11 +1287,9 @@ Young,Male,Typical Angina,High,High
 Middle-aged,Male,Non-anginal Pain,High,Desirable
 Senior,Female,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Asymptomatic,High,High
 Senior,Female,Atypical Angina,High,High
-Young,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Non-anginal Pain,High,High
 Senior,Male,Non-anginal Pain,Low,High
@@ -1573,7 +1299,6 @@ Elderly,Male,Typical Angina,Low,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Atypical Angina,Low,High
 Middle-aged,Male,Atypical Angina,High,High
-Middle-aged,Male,Typical Angina,High,High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Normal,Desirable
 Elderly,Male,Non-anginal Pain,Pre-high,High
@@ -1591,9 +1316,7 @@ Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Typical Angina,High,High
 Elderly,Female,Non-anginal Pain,Normal,High
 Young,Female,Typical Angina,Pre-high,High
-Young,Male,Typical Angina,High,High
 Elderly,Female,Typical Angina,Pre-high,High
-Senior,Female,Non-anginal Pain,Normal,High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Female,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,Normal,High
@@ -1603,24 +1326,17 @@ Young,Male,Typical Angina,Normal,High
 Middle-aged,Male,Non-anginal Pain,High,High
 Elderly,Male,Typical Angina,Normal,High
 Middle-aged,Male,Atypical Angina,High,High
-Elderly,Male,Typical Angina,High,High
-Young,Male,Atypical Angina,Normal,High
 Young,Male,Non-anginal Pain,Normal,High
 Young,Male,Atypical Angina,High,High
 Young,Male,Atypical Angina,High,Desirable
-Young,Male,Atypical Angina,Low,High
 Young,Male,Non-anginal Pain,Normal,High
 Young,Female,Typical Angina,Normal,High
 Senior,Male,Non-anginal Pain,Pre-high,Borderline High
-Young,Male,Typical Angina,Low,High
-Elderly,Male,Atypical Angina,Low,High
-Senior,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,Normal,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Senior,Female,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,Normal,High
-Senior,Male,Typical Angina,Normal,Borderline High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Typical Angina,Normal,Borderline High
 Senior,Female,Atypical Angina,High,High
@@ -1628,26 +1344,16 @@ Elderly,Male,Non-anginal Pain,Normal,High
 Young,Male,Typical Angina,Normal,High
 Elderly,Male,Asymptomatic,High,High
 Senior,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Non-anginal Pain,Normal,High
 Middle-aged,Female,Typical Angina,High,High
-Elderly,Female,Non-anginal Pain,Low,High
 Young,Female,Atypical Angina,High,High
-Senior,Male,Atypical Angina,Low,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Senior,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Non-anginal Pain,High,High
 Elderly,Male,Atypical Angina,High,Borderline High
-Young,Female,Typical Angina,Pre-high,High
-Middle-aged,Female,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Low,Desirable
 Senior,Male,Typical Angina,High,Desirable
-Young,Male,Atypical Angina,Pre-high,High
-Elderly,Male,Typical Angina,High,High
 Young,Female,Non-anginal Pain,High,High
 Young,Female,Typical Angina,Pre-high,High
-Elderly,Male,Atypical Angina,High,High
 Middle-aged,Male,Non-anginal Pain,High,High
-Senior,Male,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,Pre-high,High
 Young,Female,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,High,Borderline High
@@ -1656,48 +1362,36 @@ Young,Male,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,Low,High
 Elderly,Male,Typical Angina,High,Desirable
 Elderly,Male,Non-anginal Pain,Normal,High
-Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,Borderline High
-Elderly,Male,Typical Angina,Pre-high,High
 Elderly,Male,Atypical Angina,High,High
 Young,Female,Non-anginal Pain,High,High
 Elderly,Male,Typical Angina,Normal,High
 Senior,Male,Typical Angina,High,High
-Middle-aged,Male,Atypical Angina,Normal,High
-Young,Male,Typical Angina,High,High
 Young,Female,Non-anginal Pain,Pre-high,High
 Senior,Male,Non-anginal Pain,Normal,Borderline High
-Young,Male,Typical Angina,Pre-high,Desirable
 Young,Male,Non-anginal Pain,High,Desirable
-Elderly,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Young,Female,Atypical Angina,High,High
 Elderly,Male,Atypical Angina,High,High
 Young,Female,Atypical Angina,High,High
 Senior,Female,Typical Angina,Normal,High
-Senior,Male,Atypical Angina,Low,Desirable
 Young,Female,Non-anginal Pain,Normal,High
 Elderly,Female,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Low,High
-Middle-aged,Male,Typical Angina,Pre-high,High
 Elderly,Male,Atypical Angina,High,High
 Middle-aged,Male,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,Normal,High
 Young,Female,Non-anginal Pain,Normal,High
 Senior,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Typical Angina,Pre-high,Desirable
-Middle-aged,Male,Atypical Angina,Normal,High
-Senior,Male,Typical Angina,High,High
 Young,Female,Typical Angina,Pre-high,High
 Young,Female,Typical Angina,Pre-high,Desirable
 Middle-aged,Male,Atypical Angina,High,High
 Young,Male,Asymptomatic,High,High
 Young,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,High,High
-Senior,Male,Typical Angina,High,High
 Middle-aged,Male,Typical Angina,Pre-high,High
 Senior,Male,Typical Angina,Pre-high,High
-Young,Male,Typical Angina,High,High
 Elderly,Female,Typical Angina,High,High
 Young,Male,Non-anginal Pain,Normal,Desirable
 Elderly,Female,Typical Angina,Pre-high,High
@@ -1705,22 +1399,16 @@ Elderly,Male,Typical Angina,Normal,High
 Senior,Male,Non-anginal Pain,Low,High
 Middle-aged,Male,Typical Angina,High,High
 Young,Female,Non-anginal Pain,Normal,High
-Senior,Male,Typical Angina,Normal,High
-Young,Male,Non-anginal Pain,Pre-high,High
-Elderly,Female,Typical Angina,Pre-high,High
 Senior,Female,Asymptomatic,Pre-high,High
 Young,Male,Non-anginal Pain,High,High
-Young,Male,Typical Angina,Pre-high,High
 Middle-aged,Male,Typical Angina,Normal,Desirable
 Young,Male,Non-anginal Pain,High,Borderline High
 Elderly,Male,Typical Angina,Normal,Desirable
 Elderly,Female,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,Pre-high,Borderline High
 Young,Male,Typical Angina,Pre-high,Borderline High
-Elderly,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,Borderline High
 Senior,Female,Typical Angina,Pre-high,Borderline High
-Young,Male,Typical Angina,Pre-high,High
 Elderly,Female,Atypical Angina,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Young,Female,Typical Angina,Pre-high,Desirable
@@ -1729,35 +1417,23 @@ Young,Female,Non-anginal Pain,Low,High
 Senior,Male,Typical Angina,Pre-high,High
 Elderly,Female,Atypical Angina,High,High
 Elderly,Female,Atypical Angina,High,Desirable
-Middle-aged,Male,Typical Angina,Normal,High
 Young,Female,Asymptomatic,Pre-high,High
-Elderly,Male,Typical Angina,Pre-high,High
-Young,Male,Typical Angina,High,High
 Elderly,Female,Non-anginal Pain,Low,High
 Middle-aged,Male,Typical Angina,High,High
-Young,Male,Atypical Angina,High,High
 Young,Male,Typical Angina,Normal,High
-Middle-aged,Male,Atypical Angina,High,High
 Young,Male,Typical Angina,Low,High
 Elderly,Male,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,Normal,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Male,Asymptomatic,High,High
 Young,Male,Typical Angina,High,Desirable
-Elderly,Male,Atypical Angina,Normal,High
-Young,Male,Typical Angina,Pre-high,Borderline High
 Young,Male,Atypical Angina,High,Borderline High
 Elderly,Male,Non-anginal Pain,High,High
 Middle-aged,Female,Non-anginal Pain,Normal,High
 Elderly,Male,Typical Angina,Pre-high,Desirable
 Elderly,Female,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,High,High
 Senior,Male,Non-anginal Pain,Low,High
-Senior,Male,Typical Angina,Normal,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Typical Angina,High,High
-Senior,Female,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Normal,High
 Elderly,Male,Non-anginal Pain,High,High
@@ -1771,10 +1447,6 @@ Young,Male,Asymptomatic,High,High
 Young,Male,Non-anginal Pain,High,Desirable
 Young,Female,Atypical Angina,High,High
 Young,Male,Non-anginal Pain,High,Borderline High
-Middle-aged,Male,Typical Angina,Normal,High
-Middle-aged,Male,Typical Angina,High,High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Female,Atypical Angina,High,High
 Middle-aged,Male,Atypical Angina,High,High
 Senior,Male,Typical Angina,Low,Desirable
 Elderly,Male,Typical Angina,Pre-high,Desirable
@@ -1782,40 +1454,29 @@ Elderly,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Normal,High
-Young,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Atypical Angina,High,High
-Young,Male,Typical Angina,High,High
-Young,Male,Typical Angina,Normal,High
 Young,Male,Non-anginal Pain,High,High
 Young,Female,Atypical Angina,High,Borderline High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
 Senior,Male,Atypical Angina,High,High
-Middle-aged,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,Pre-high,Desirable
 Young,Male,Typical Angina,Pre-high,High
-Young,Female,Typical Angina,Low,High
-Young,Female,Typical Angina,Pre-high,Desirable
-Young,Male,Atypical Angina,Low,High
 Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,High
 Senior,Male,Typical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
 Senior,Male,Non-anginal Pain,High,High
-Elderly,Male,Atypical Angina,Low,Borderline High
 Senior,Female,Asymptomatic,Pre-high,High
 Elderly,Female,Non-anginal Pain,Pre-high,High
 Elderly,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Pre-high,High
-Middle-aged,Female,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,Pre-high,Borderline High
 Elderly,Female,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Low,Desirable
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Female,Non-anginal Pain,High,High
-Young,Male,Typical Angina,High,High
 Senior,Male,Non-anginal Pain,Normal,High
 Young,Male,Atypical Angina,High,High
 Middle-aged,Female,Asymptomatic,Pre-high,High
@@ -1831,7 +1492,6 @@ Senior,Male,Typical Angina,Pre-high,Desirable
 Middle-aged,Male,Typical Angina,Normal,High
 Young,Female,Asymptomatic,Pre-high,High
 Young,Male,Atypical Angina,High,High
-Young,Male,Typical Angina,Low,High
 Young,Female,Atypical Angina,High,Borderline High
 Middle-aged,Male,Atypical Angina,High,High
 Middle-aged,Female,Typical Angina,Normal,High
@@ -1839,7 +1499,6 @@ Middle-aged,Male,Atypical Angina,High,High
 Elderly,Female,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,Pre-high,Borderline High
 Young,Female,Typical Angina,High,High
-Senior,Male,Typical Angina,Normal,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Male,Asymptomatic,High,High
 Elderly,Female,Non-anginal Pain,Low,High
@@ -1849,30 +1508,23 @@ Young,Male,Typical Angina,Pre-high,Borderline High
 Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,Pre-high,Borderline High
-Young,Male,Typical Angina,Normal,Desirable
 Young,Male,Non-anginal Pain,High,Desirable
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,High,High
 Young,Female,Atypical Angina,Pre-high,High
 Young,Female,Non-anginal Pain,Normal,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Typical Angina,Normal,High
 Elderly,Male,Atypical Angina,High,Borderline High
-Young,Male,Typical Angina,Low,Desirable
-Young,Male,Atypical Angina,Low,High
 Senior,Male,Typical Angina,Pre-high,Borderline High
 Young,Male,Typical Angina,Normal,High
-Young,Male,Typical Angina,Low,Borderline High
 Senior,Female,Non-anginal Pain,Normal,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Female,Typical Angina,Pre-high,High
 Elderly,Male,Typical Angina,Pre-high,High
 Senior,Male,Typical Angina,Pre-high,High
 Young,Male,Atypical Angina,Normal,High
-Senior,Male,Typical Angina,Normal,High
 Senior,Male,Non-anginal Pain,High,High
 Senior,Male,Atypical Angina,High,Desirable
-Middle-aged,Male,Non-anginal Pain,Pre-high,Desirable
 Senior,Male,Non-anginal Pain,Pre-high,High
 Senior,Female,Non-anginal Pain,Low,High
 Young,Male,Non-anginal Pain,Pre-high,High
@@ -1884,7 +1536,6 @@ Young,Male,Non-anginal Pain,Pre-high,High
 Senior,Male,Non-anginal Pain,High,High
 Young,Male,Atypical Angina,High,Desirable
 Middle-aged,Male,Typical Angina,Normal,High
-Young,Female,Typical Angina,Normal,High
 Middle-aged,Male,Non-anginal Pain,Normal,High
 Young,Male,Typical Angina,Normal,Desirable
 Young,Male,Typical Angina,Pre-high,High
@@ -1893,26 +1544,21 @@ Senior,Male,Non-anginal Pain,High,High
 Young,Male,Atypical Angina,Normal,High
 Young,Female,Atypical Angina,High,High
 Elderly,Male,Typical Angina,Normal,Borderline High
-Elderly,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Elderly,Female,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Female,Typical Angina,High,High
 Young,Female,Non-anginal Pain,Normal,High
 Middle-aged,Male,Atypical Angina,Low,Desirable
-Elderly,Male,Typical Angina,Low,High
 Middle-aged,Male,Typical Angina,High,Borderline High
 Young,Male,Typical Angina,High,High
 Middle-aged,Male,Atypical Angina,High,High
-Young,Male,Typical Angina,High,High
 Senior,Female,Typical Angina,High,High
 Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,High,High
 Senior,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Typical Angina,Low,Borderline High
-Young,Male,Typical Angina,Normal,High
 Middle-aged,Female,Atypical Angina,High,High
 Elderly,Female,Typical Angina,High,High
 Young,Male,Atypical Angina,Low,High
@@ -1920,7 +1566,6 @@ Young,Female,Asymptomatic,Pre-high,High
 Middle-aged,Female,Atypical Angina,Pre-high,High
 Middle-aged,Male,Asymptomatic,High,High
 Young,Male,Typical Angina,Normal,High
-Senior,Female,Typical Angina,Normal,Desirable
 Young,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
@@ -1931,12 +1576,9 @@ Elderly,Female,Atypical Angina,High,Desirable
 Young,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Typical Angina,Normal,High
-Young,Male,Typical Angina,Pre-high,High
-Elderly,Male,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,Pre-high,High
 Middle-aged,Female,Non-anginal Pain,High,High
 Senior,Female,Typical Angina,Pre-high,High
-Young,Female,Atypical Angina,High,Desirable
 Young,Male,Non-anginal Pain,Pre-high,Desirable
 Young,Male,Atypical Angina,High,High
 Young,Male,Atypical Angina,High,High
@@ -1945,18 +1587,12 @@ Elderly,Male,Typical Angina,Normal,High
 Young,Male,Typical Angina,Low,High
 Senior,Female,Asymptomatic,Pre-high,High
 Young,Female,Typical Angina,High,Borderline High
-Middle-aged,Male,Atypical Angina,Normal,High
 Middle-aged,Male,Non-anginal Pain,Low,Borderline High
-Young,Male,Typical Angina,Normal,High
-Young,Male,Typical Angina,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,High
 Senior,Female,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,Pre-high,Desirable
 Elderly,Male,Non-anginal Pain,High,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Female,Atypical Angina,High,High
-Young,Male,Typical Angina,Pre-high,High
-Young,Male,Typical Angina,High,Desirable
 Middle-aged,Female,Non-anginal Pain,High,High
 Elderly,Male,Typical Angina,Low,High
 Elderly,Female,Atypical Angina,High,High
@@ -1964,28 +1600,21 @@ Senior,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Typical Angina,Low,High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Female,Atypical Angina,High,High
-Elderly,Male,Atypical Angina,Normal,High
 Elderly,Male,Typical Angina,High,Borderline High
-Elderly,Female,Typical Angina,High,High
 Elderly,Male,Typical Angina,High,High
 Elderly,Male,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,High,High
-Young,Male,Typical Angina,Normal,Desirable
 Senior,Male,Atypical Angina,High,High
 Elderly,Female,Typical Angina,Low,High
-Young,Male,Typical Angina,Low,Desirable
 Young,Female,Non-anginal Pain,Pre-high,High
-Elderly,Male,Typical Angina,High,Desirable
 Elderly,Male,Non-anginal Pain,High,High
 Senior,Male,Typical Angina,Pre-high,High
 Elderly,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
 Senior,Male,Atypical Angina,Normal,High
 Elderly,Male,Non-anginal Pain,Low,High
-Senior,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Female,Non-anginal Pain,High,High
 Elderly,Female,Non-anginal Pain,Normal,High
-Young,Male,Atypical Angina,Low,High
 Young,Female,Typical Angina,Pre-high,Desirable
 Elderly,Male,Typical Angina,Low,High
 Elderly,Male,Typical Angina,Normal,High
@@ -1995,30 +1624,17 @@ Middle-aged,Male,Typical Angina,Normal,High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Male,Atypical Angina,High,High
-Senior,Male,Typical Angina,Pre-high,Desirable
-Middle-aged,Male,Typical Angina,Normal,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Typical Angina,Normal,High
 Elderly,Male,Typical Angina,Normal,Desirable
 Young,Male,Typical Angina,Normal,High
-Elderly,Male,Typical Angina,Low,High
 Senior,Male,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Normal,Borderline High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Typical Angina,Normal,High
 Young,Male,Atypical Angina,High,High
-Senior,Male,Non-anginal Pain,High,High
-Elderly,Male,Typical Angina,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,High,High
-Young,Male,Typical Angina,Normal,High
-Middle-aged,Male,Typical Angina,Low,High
 Young,Male,Atypical Angina,High,High
 Elderly,Male,Asymptomatic,High,High
-Young,Female,Asymptomatic,High,High
 Young,Female,Typical Angina,Normal,High
-Senior,Male,Atypical Angina,Pre-high,Desirable
 Elderly,Male,Non-anginal Pain,Normal,High
 Middle-aged,Male,Typical Angina,Low,High
 Senior,Male,Typical Angina,Pre-high,High
@@ -2034,24 +1650,17 @@ Young,Female,Typical Angina,Normal,High
 Elderly,Female,Typical Angina,High,Desirable
 Middle-aged,Female,Typical Angina,Pre-high,High
 Middle-aged,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Non-anginal Pain,High,High
-Senior,Male,Typical Angina,Low,High
 Elderly,Female,Atypical Angina,High,High
 Middle-aged,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Normal,High
-Elderly,Male,Atypical Angina,Low,High
-Middle-aged,Male,Typical Angina,Normal,High
 Elderly,Male,Non-anginal Pain,Normal,High
 Middle-aged,Male,Typical Angina,Normal,High
 Senior,Female,Non-anginal Pain,Normal,High
 Elderly,Female,Non-anginal Pain,Low,High
 Young,Male,Non-anginal Pain,Low,High
-Senior,Male,Typical Angina,Normal,High
 Young,Female,Asymptomatic,Pre-high,High
 Elderly,Male,Non-anginal Pain,High,High
-Senior,Male,Non-anginal Pain,Pre-high,Borderline High
 Senior,Male,Non-anginal Pain,High,High
-Middle-aged,Male,Typical Angina,High,High
 Middle-aged,Female,Non-anginal Pain,Normal,High
 Elderly,Male,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
@@ -2062,7 +1671,6 @@ Young,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,High,High
 Elderly,Male,Atypical Angina,Low,High
-Young,Male,Typical Angina,Normal,High
 Young,Female,Typical Angina,Normal,Desirable
 Elderly,Male,Typical Angina,Pre-high,High
 Elderly,Female,Typical Angina,Pre-high,Desirable
@@ -2070,15 +1678,10 @@ Elderly,Male,Atypical Angina,High,High
 Young,Male,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Middle-aged,Female,Typical Angina,High,High
-Senior,Male,Typical Angina,Low,High
 Elderly,Male,Non-anginal Pain,High,High
 Elderly,Female,Atypical Angina,High,High
-Senior,Male,Non-anginal Pain,Pre-high,High
 Elderly,Male,Non-anginal Pain,Pre-high,Borderline High
-Middle-aged,Male,Typical Angina,Normal,Borderline High
 Young,Male,Non-anginal Pain,Pre-high,Desirable
-Elderly,Male,Typical Angina,Low,High
-Elderly,Male,Atypical Angina,High,High
 Middle-aged,Female,Asymptomatic,High,High
 Elderly,Male,Typical Angina,High,High
 Young,Female,Typical Angina,Pre-high,High
@@ -2090,17 +1693,14 @@ Elderly,Male,Non-anginal Pain,Pre-high,Borderline High
 Elderly,Female,Typical Angina,Pre-high,High
 Senior,Male,Non-anginal Pain,High,Borderline High
 Middle-aged,Male,Typical Angina,Pre-high,High
-Middle-aged,Female,Atypical Angina,High,High
 Young,Male,Typical Angina,High,High
 Young,Male,Typical Angina,Pre-high,High
 Young,Male,Non-anginal Pain,Normal,High
 Middle-aged,Female,Non-anginal Pain,Normal,High
 Elderly,Male,Typical Angina,Normal,High
 Young,Male,Asymptomatic,High,High
-Middle-aged,Male,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Typical Angina,High,High
 Young,Male,Atypical Angina,High,High
 Young,Female,Atypical Angina,High,Borderline High
 Senior,Male,Typical Angina,High,High
@@ -2112,11 +1712,8 @@ Elderly,Female,Atypical Angina,High,High
 Elderly,Male,Non-anginal Pain,Pre-high,Desirable
 Middle-aged,Male,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,High,High
-Middle-aged,Female,Typical Angina,Low,High
 Young,Male,Non-anginal Pain,High,High
 Elderly,Female,Atypical Angina,High,High
-Young,Male,Typical Angina,Normal,High
-Young,Male,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
 Young,Male,Atypical Angina,High,High
 Elderly,Female,Typical Angina,Pre-high,High
@@ -2132,12 +1729,8 @@ Elderly,Male,Typical Angina,Normal,Borderline High
 Elderly,Male,Typical Angina,Pre-high,Borderline High
 Elderly,Male,Typical Angina,Pre-high,High
 Middle-aged,Male,Atypical Angina,High,High
-Elderly,Male,Atypical Angina,Normal,Borderline High
-Elderly,Male,Non-anginal Pain,Pre-high,Desirable
 Middle-aged,Female,Atypical Angina,High,High
-Young,Male,Atypical Angina,Normal,Borderline High
 Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Typical Angina,Normal,High
 Middle-aged,Female,Typical Angina,High,High
 Young,Male,Atypical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
@@ -2145,36 +1738,26 @@ Young,Male,Asymptomatic,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Normal,High
 Young,Male,Typical Angina,Normal,High
-Young,Male,Typical Angina,Normal,High
 Young,Male,Atypical Angina,High,High
 Young,Female,Asymptomatic,Pre-high,High
 Elderly,Male,Non-anginal Pain,Pre-high,Desirable
-Middle-aged,Male,Typical Angina,Pre-high,High
 Young,Male,Atypical Angina,High,High
 Senior,Male,Non-anginal Pain,High,High
 Elderly,Male,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Young,Male,Non-anginal Pain,Low,High
-Elderly,Male,Typical Angina,Low,High
-Young,Female,Typical Angina,Normal,High
 Young,Male,Typical Angina,High,High
 Young,Male,Non-anginal Pain,High,High
 Young,Female,Typical Angina,High,High
 Young,Male,Atypical Angina,High,High
 Middle-aged,Male,Typical Angina,High,High
-Elderly,Male,Typical Angina,Pre-high,High
 Young,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Atypical Angina,Low,High
-Middle-aged,Female,Typical Angina,Normal,High
 Senior,Female,Non-anginal Pain,Pre-high,Borderline High
 Elderly,Male,Typical Angina,Normal,High
 Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Atypical Angina,Low,High
-Young,Male,Typical Angina,Normal,Desirable
 Elderly,Male,Typical Angina,Normal,Borderline High
 Elderly,Female,Typical Angina,High,High
 Senior,Male,Non-anginal Pain,Normal,High
-Middle-aged,Male,Non-anginal Pain,High,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Senior,Male,Non-anginal Pain,High,High
 Young,Male,Typical Angina,Pre-high,Desirable
@@ -2187,19 +1770,14 @@ Young,Male,Non-anginal Pain,High,High
 Elderly,Male,Atypical Angina,Low,High
 Young,Male,Atypical Angina,High,High
 Elderly,Male,Atypical Angina,High,Borderline High
-Elderly,Female,Atypical Angina,High,High
 Senior,Male,Atypical Angina,Normal,High
 Young,Male,Typical Angina,Pre-high,Borderline High
 Young,Male,Typical Angina,Normal,Desirable
-Senior,Male,Non-anginal Pain,High,High
 Young,Male,Non-anginal Pain,Pre-high,High
 Senior,Male,Atypical Angina,High,High
-Elderly,Female,Typical Angina,Low,High
 Senior,Male,Atypical Angina,High,High
-Elderly,Male,Typical Angina,Normal,High
 Elderly,Male,Typical Angina,High,High
 Middle-aged,Male,Typical Angina,High,High
-Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Young,Female,Typical Angina,Pre-high,High
 Young,Male,Typical Angina,High,High
 Young,Female,Atypical Angina,High,Desirable
@@ -2207,18 +1785,13 @@ Young,Female,Typical Angina,Normal,Desirable
 Senior,Male,Typical Angina,Pre-high,High
 Young,Male,Non-anginal Pain,Normal,High
 Young,Male,Non-anginal Pain,High,High
-Elderly,Male,Typical Angina,Pre-high,High
 Senior,Female,Typical Angina,Pre-high,Borderline High
 Elderly,Female,Atypical Angina,High,High
-Young,Male,Typical Angina,High,High
 Elderly,Female,Typical Angina,High,High
-Young,Female,Atypical Angina,High,High
-Elderly,Male,Atypical Angina,Normal,High
 Middle-aged,Male,Non-anginal Pain,Pre-high,High
 Middle-aged,Male,Asymptomatic,Pre-high,High
 Elderly,Male,Typical Angina,High,High
 Middle-aged,Male,Atypical Angina,High,High
-Young,Male,Typical Angina,High,High
 Senior,Male,Asymptomatic,Pre-high,Borderline High
 Young,Male,Non-anginal Pain,Normal,High
 Senior,Male,Atypical Angina,Normal,Borderline High
@@ -2248,459 +1821,3 @@ Middle-aged,Male,Typical Angina,Normal,Borderline High
 Senior,Male,Typical Angina,Pre-high,Borderline High
 Senior,Male,Atypical Angina,High,Borderline High
 Senior,Male,Typical Angina,Normal,High
-Young,Male,Atypical Angina,Normal,Desirable
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Atypical Angina,Pre-high,High
-Young,Female,Typical Angina,High,Borderline High
-Young,Female,Atypical Angina,Low,Borderline High
-Young,Female,Atypical Angina,Low,Desirable
-Young,Male,Atypical Angina,Normal,Borderline High
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Non-anginal Pain,Normal,High
-Young,Female,Atypical Angina,Normal,Desirable
-Young,Male,Atypical Angina,Pre-high,Borderline High
-Young,Male,Atypical Angina,Low,Borderline High
-Young,Female,Typical Angina,Normal,Desirable
-Young,Female,Asymptomatic,Pre-high,Desirable
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Atypical Angina,Pre-high,High
-Young,Male,Atypical Angina,Normal,Desirable
-Young,Male,Non-anginal Pain,Normal,Borderline High
-Young,Male,Non-anginal Pain,Pre-high,Desirable
-Young,Female,Atypical Angina,Normal,High
-Young,Female,Non-anginal Pain,Normal,Borderline High
-Young,Female,Asymptomatic,Normal,Desirable
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Non-anginal Pain,Normal,Desirable
-Young,Male,Asymptomatic,Normal,Borderline High
-Young,Male,Asymptomatic,Normal,High
-Young,Female,Atypical Angina,Normal,High
-Young,Male,Atypical Angina,Pre-high,High
-Young,Male,Non-anginal Pain,Pre-high,High
-Young,Female,Non-anginal Pain,Normal,Desirable
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Atypical Angina,Normal,Borderline High
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Atypical Angina,High,High
-Young,Male,Non-anginal Pain,Normal,High
-Young,Male,Non-anginal Pain,High,Desirable
-Young,Male,Asymptomatic,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Atypical Angina,Pre-high,High
-Young,Male,Non-anginal Pain,Normal,Borderline High
-Young,Male,Non-anginal Pain,Normal,High
-Young,Male,Non-anginal Pain,Pre-high,High
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Female,Atypical Angina,Normal,Desirable
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Male,Atypical Angina,Normal,High
-Middle-aged,Male,Atypical Angina,Normal,High
-Middle-aged,Male,Atypical Angina,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Middle-aged,Female,Non-anginal Pain,Normal,Borderline High
-Middle-aged,Male,Atypical Angina,Normal,Desirable
-Middle-aged,Male,Atypical Angina,Normal,Desirable
-Middle-aged,Male,Atypical Angina,Pre-high,High
-Middle-aged,Male,Non-anginal Pain,High,Desirable
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Middle-aged,Female,Typical Angina,Low,Borderline High
-Middle-aged,Female,Atypical Angina,Normal,Borderline High
-Middle-aged,Female,Atypical Angina,Normal,Borderline High
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Female,Atypical Angina,Pre-high,Desirable
-Middle-aged,Female,Non-anginal Pain,Pre-high,High
-Middle-aged,Male,Atypical Angina,Pre-high,Borderline High
-Middle-aged,Female,Asymptomatic,Normal,Borderline High
-Middle-aged,Male,Atypical Angina,Normal,Borderline High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Middle-aged,Female,Atypical Angina,Normal,Borderline High
-Middle-aged,Female,Atypical Angina,High,High
-Middle-aged,Female,Asymptomatic,Pre-high,High
-Middle-aged,Male,Atypical Angina,Pre-high,Borderline High
-Middle-aged,Male,Non-anginal Pain,Pre-high,High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Middle-aged,Male,Asymptomatic,Pre-high,Borderline High
-Middle-aged,Female,Asymptomatic,Normal,Borderline High
-Middle-aged,Male,Atypical Angina,Pre-high,High
-Middle-aged,Male,Non-anginal Pain,Normal,Borderline High
-Middle-aged,Male,Non-anginal Pain,Pre-high,Desirable
-Middle-aged,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,High,High
-Middle-aged,Female,Non-anginal Pain,Normal,High
-Middle-aged,Male,Typical Angina,Normal,High
-Middle-aged,Male,Atypical Angina,High,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Middle-aged,Female,Atypical Angina,High,High
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Female,Non-anginal Pain,Normal,Desirable
-Middle-aged,Female,Asymptomatic,Normal,High
-Middle-aged,Male,Atypical Angina,Low,High
-Middle-aged,Male,Atypical Angina,Normal,High
-Middle-aged,Male,Atypical Angina,Pre-high,Borderline High
-Middle-aged,Male,Non-anginal Pain,Normal,Borderline High
-Middle-aged,Female,Atypical Angina,Normal,High
-Middle-aged,Female,Atypical Angina,Normal,Borderline High
-Middle-aged,Female,Non-anginal Pain,Normal,Borderline High
-Middle-aged,Male,Atypical Angina,Low,High
-Middle-aged,Male,Non-anginal Pain,Pre-high,Desirable
-Middle-aged,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Middle-aged,Female,Atypical Angina,Normal,Borderline High
-Middle-aged,Male,Atypical Angina,Normal,Desirable
-Middle-aged,Male,Atypical Angina,Pre-high,Borderline High
-Middle-aged,Male,Atypical Angina,High,Borderline High
-Middle-aged,Male,Asymptomatic,Pre-high,Desirable
-Middle-aged,Male,Asymptomatic,Pre-high,Borderline High
-Senior,Female,Atypical Angina,High,Desirable
-Senior,Female,Non-anginal Pain,Normal,Desirable
-Senior,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Atypical Angina,Normal,Borderline High
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Female,Atypical Angina,Normal,Borderline High
-Senior,Female,Atypical Angina,Pre-high,High
-Senior,Female,Non-anginal Pain,Normal,High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Male,Atypical Angina,Pre-high,Desirable
-Senior,Male,Atypical Angina,High,Desirable
-Senior,Male,Non-anginal Pain,Pre-high,High
-Senior,Female,Atypical Angina,Normal,High
-Senior,Female,Non-anginal Pain,Normal,High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Male,Atypical Angina,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,High
-Senior,Female,Atypical Angina,Normal,Borderline High
-Senior,Female,Atypical Angina,Normal,High
-Senior,Female,Atypical Angina,Pre-high,High
-Senior,Female,Atypical Angina,Pre-high,Borderline High
-Senior,Female,Atypical Angina,High,High
-Senior,Male,Atypical Angina,Normal,Borderline High
-Senior,Male,Atypical Angina,Normal,Borderline High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Male,Atypical Angina,High,High
-Senior,Male,Non-anginal Pain,Normal,Borderline High
-Senior,Male,Non-anginal Pain,Pre-high,High
-Senior,Female,Atypical Angina,Normal,High
-Senior,Female,Atypical Angina,Normal,High
-Senior,Female,Atypical Angina,Normal,High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Male,Atypical Angina,Pre-high,Desirable
-Senior,Male,Atypical Angina,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,High
-Senior,Male,Non-anginal Pain,Normal,Borderline High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Female,Non-anginal Pain,Normal,Borderline High
-Senior,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Non-anginal Pain,Normal,High
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Atypical Angina,Pre-high,High
-Senior,Male,Atypical Angina,Normal,Borderline High
-Senior,Male,Atypical Angina,Normal,High
-Senior,Male,Non-anginal Pain,Pre-high,Desirable
-Senior,Male,Asymptomatic,Pre-high,Borderline High
-Senior,Male,Atypical Angina,Pre-high,High
-Senior,Male,Non-anginal Pain,High,Borderline High
-Senior,Male,Asymptomatic,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Asymptomatic,Normal,High
-Elderly,Female,Typical Angina,High,Desirable
-Young,Male,Typical Angina,Pre-high,Desirable
-Young,Male,Atypical Angina,Normal,High
-Young,Male,Asymptomatic,Normal,Desirable
-Young,Male,Asymptomatic,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Asymptomatic,Low,High
-Middle-aged,Male,Non-anginal Pain,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Middle-aged,Female,Non-anginal Pain,Pre-high,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Senior,Male,Asymptomatic,Normal,Borderline High
-Senior,Male,Non-anginal Pain,Normal,Borderline High
-Elderly,Male,Asymptomatic,Pre-high,Borderline High
-Young,Male,Asymptomatic,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Young,Male,Asymptomatic,Normal,High
-Middle-aged,Male,Typical Angina,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,Normal,Borderline High
-Senior,Male,Asymptomatic,Pre-high,High
-Senior,Male,Non-anginal Pain,High,Borderline High
-Middle-aged,Female,Non-anginal Pain,Pre-high,High
-Senior,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Typical Angina,Pre-high,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Senior,Male,Asymptomatic,High,High
-Young,Male,Typical Angina,Low,Desirable
-Young,Male,Asymptomatic,Normal,Desirable
-Young,Male,Asymptomatic,High,Desirable
-Young,Male,Asymptomatic,Normal,Desirable
-Young,Female,Asymptomatic,Low,Desirable
-Young,Female,Asymptomatic,Normal,Desirable
-Young,Male,Non-anginal Pain,Low,Desirable
-Young,Male,Non-anginal Pain,Normal,Desirable
-Young,Male,Asymptomatic,Pre-high,Desirable
-Young,Male,Asymptomatic,Pre-high,Desirable
-Young,Male,Asymptomatic,Low,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Asymptomatic,Low,Desirable
-Middle-aged,Male,Asymptomatic,Pre-high,Desirable
-Middle-aged,Male,Asymptomatic,Low,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Asymptomatic,Pre-high,Desirable
-Middle-aged,Male,Non-anginal Pain,Normal,Desirable
-Middle-aged,Male,Asymptomatic,Low,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Non-anginal Pain,Normal,Desirable
-Middle-aged,Male,Non-anginal Pain,High,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Asymptomatic,High,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Female,Asymptomatic,High,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Middle-aged,Male,Asymptomatic,Pre-high,Desirable
-Senior,Female,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,Low,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Asymptomatic,Low,Desirable
-Senior,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Non-anginal Pain,Low,Desirable
-Senior,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Low,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Atypical Angina,Pre-high,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Non-anginal Pain,Low,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Asymptomatic,Low,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Elderly,Male,Non-anginal Pain,High,Desirable
-Elderly,Male,Asymptomatic,Low,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Female,Typical Angina,Pre-high,Desirable
-Elderly,Female,Asymptomatic,Normal,Desirable
-Elderly,Male,Typical Angina,Normal,Desirable
-Elderly,Male,Non-anginal Pain,High,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Low,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Female,Asymptomatic,High,Desirable
-Elderly,Female,Asymptomatic,Low,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Female,Asymptomatic,High,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Typical Angina,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Non-anginal Pain,High,Desirable
-Elderly,Female,Non-anginal Pain,High,Desirable
-Elderly,Male,Atypical Angina,Pre-high,Desirable
-Middle-aged,Male,Asymptomatic,Normal,Borderline High
-Elderly,Male,Non-anginal Pain,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Borderline High
-Senior,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Senior,Male,Atypical Angina,Normal,Desirable
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Borderline High
-Elderly,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Non-anginal Pain,Normal,Desirable
-Elderly,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Elderly,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Non-anginal Pain,High,Borderline High
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Non-anginal Pain,Low,Desirable
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Borderline High
-Senior,Male,Asymptomatic,High,Desirable
-Elderly,Male,Non-anginal Pain,Normal,Desirable
-Young,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Middle-aged,Male,Asymptomatic,Low,Desirable
-Senior,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Non-anginal Pain,High,Desirable
-Middle-aged,Male,Non-anginal Pain,Pre-high,High
-Senior,Male,Non-anginal Pain,Normal,Desirable
-Elderly,Female,Atypical Angina,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,Pre-high,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Non-anginal Pain,High,High
-Elderly,Male,Atypical Angina,High,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Senior,Male,Asymptomatic,High,Borderline High
-Elderly,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Atypical Angina,Normal,Desirable
-Elderly,Male,Non-anginal Pain,Pre-high,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Male,Atypical Angina,High,Borderline High
-Senior,Male,Atypical Angina,Normal,Borderline High
-Elderly,Male,Typical Angina,High,High
-Elderly,Male,Asymptomatic,High,Borderline High
-Middle-aged,Male,Typical Angina,Normal,Desirable
-Senior,Male,Non-anginal Pain,High,High
-Elderly,Male,Asymptomatic,Pre-high,Borderline High
-Senior,Male,Asymptomatic,High,Borderline High
-Senior,Male,Non-anginal Pain,High,High
-Young,Male,Non-anginal Pain,Low,High
-Elderly,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Elderly,Male,Asymptomatic,High,High
-Young,Male,Non-anginal Pain,High,Desirable
-Elderly,Male,Typical Angina,Normal,High
-Middle-aged,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Non-anginal Pain,Normal,Desirable
-Elderly,Male,Non-anginal Pain,Pre-high,Desirable
-Middle-aged,Male,Non-anginal Pain,Low,Desirable
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Pre-high,Desirable
-Middle-aged,Male,Non-anginal Pain,High,Borderline High
-Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Atypical Angina,High,High
-Middle-aged,Male,Non-anginal Pain,High,Desirable
-Elderly,Male,Asymptomatic,High,Borderline High
-Middle-aged,Male,Asymptomatic,High,Borderline High
-Elderly,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,Normal,Desirable
-Senior,Male,Asymptomatic,High,Desirable
-Elderly,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Asymptomatic,Normal,Desirable
-Elderly,Male,Non-anginal Pain,High,Borderline High
-Elderly,Male,Non-anginal Pain,Low,High
-Elderly,Female,Atypical Angina,Pre-high,High
-Middle-aged,Male,Asymptomatic,High,High
-Middle-aged,Male,Non-anginal Pain,Pre-high,Borderline High
-Elderly,Male,Typical Angina,High,Desirable
-Senior,Male,Asymptomatic,High,High
-Elderly,Male,Non-anginal Pain,Normal,Borderline High
-Elderly,Male,Non-anginal Pain,High,Borderline High
-Elderly,Male,Typical Angina,High,Borderline High
-Senior,Male,Non-anginal Pain,High,Desirable
-Senior,Male,Non-anginal Pain,Pre-high,Borderline High
-Senior,Male,Non-anginal Pain,High,Borderline High
-Senior,Male,Non-anginal Pain,High,Borderline High
-Senior,Male,Non-anginal Pain,High,Borderline High
-Senior,Male,Atypical Angina,High,Desirable
-Senior,Male,Asymptomatic,High,Borderline High
-Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,Normal,Borderline High
-Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,High,Borderline High
-Senior,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,High,Desirable
-Elderly,Male,Asymptomatic,High,High
-Elderly,Male,Asymptomatic,High,High
-Senior,Male,Asymptomatic,High,High
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Elderly,Male,Asymptomatic,Normal,Borderline High
-Elderly,Male,Non-anginal Pain,High,High
-Elderly,Male,Asymptomatic,High,High
-Senior,Male,Atypical Angina,High,High
-Elderly,Male,Non-anginal Pain,Pre-high,Borderline High
-Elderly,Male,Atypical Angina,High,Desirable
-Senior,Male,Asymptomatic,Low,Borderline High
-Elderly,Male,Asymptomatic,Normal,High
-Senior,Male,Asymptomatic,Normal,High
-Senior,Male,Non-anginal Pain,High,High
-Elderly,Male,Non-anginal Pain,High,High
-Elderly,Male,Non-anginal Pain,Normal,High
-Elderly,Male,Non-anginal Pain,Pre-high,High
-Elderly,Male,Asymptomatic,High,Desirable
-Middle-aged,Male,Asymptomatic,Pre-high,High
-Senior,Female,Asymptomatic,Normal,High
-Elderly,Male,Typical Angina,High,Desirable
-Senior,Male,Asymptomatic,Normal,Borderline High
-Senior,Male,Asymptomatic,High,High
-Elderly,Male,Atypical Angina,Normal,High

@@ -1,2 +1,2 @@
 Age,Sex,ChestPainType,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestingECG,MaximumHeartRate,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
-Middle-aged,Female,Atypical Angina,Normal,High,No,Normal,Moderate,No,None,Upsloping
+Middle-aged,Male,Atypical Angina,High,High,Yes,Left Ventricular Hypertrophy,High,Yes,Mild,Flat
