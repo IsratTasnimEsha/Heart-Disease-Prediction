@@ -1,4 +1,4 @@
-# **Heart Disease Prediction (Handling missing values)**
+# **Heart Disease Prediction**
 
 ## Contact
 
